@@ -1,0 +1,1171 @@
+Delete:      1 A047    Enterocolitis due to Clostridium difficile                   Enterocolitis due to Clostridium difficile
+Add:         0 A047    Enterocolitis due to Clostridium difficile                   Enterocolitis due to Clostridium difficile
+Add:         1 A0471   Enterocolitis due to Clostridium difficile, recurrent        Enterocolitis due to Clostridium difficile, recurrent
+Add:         1 A0472   Enterocolitis d/t Clostridium difficile, not spcf as recur   Enterocolitis due to Clostridium difficile, not specified as recurrent
+Delete:      1 C962    Malignant mast cell tumor                                    Malignant mast cell tumor
+Add:         0 C962    Malignant mast cell neoplasm                                 Malignant mast cell neoplasm
+Add:         1 C9620   Malignant mast cell neoplasm, unspecified                    Malignant mast cell neoplasm, unspecified
+Add:         1 C9621   Aggressive systemic mastocytosis                             Aggressive systemic mastocytosis
+Add:         1 C9622   Mast cell sarcoma                                            Mast cell sarcoma
+Add:         1 C9629   Other malignant mast cell neoplasm                           Other malignant mast cell neoplasm
+Delete:      1 D470    Histiocytic and mast cell tumors of uncertain behavior       Histiocytic and mast cell tumors of uncertain behavior
+Add:         0 D470    Mast cell neoplasms of uncertain behavior                    Mast cell neoplasms of uncertain behavior
+Add:         1 D4701   Cutaneous mastocytosis                                       Cutaneous mastocytosis
+Add:         1 D4702   Systemic mastocytosis                                        Systemic mastocytosis
+Add:         1 D4709   Other mast cell neoplasms of uncertain behavior              Other mast cell neoplasms of uncertain behavior
+Add:         0 E111    Type 2 diabetes mellitus with ketoacidosis                   Type 2 diabetes mellitus with ketoacidosis
+Add:         1 E1110   Type 2 diabetes mellitus with ketoacidosis without coma      Type 2 diabetes mellitus with ketoacidosis without coma
+Add:         1 E1111   Type 2 diabetes mellitus with ketoacidosis with coma         Type 2 diabetes mellitus with ketoacidosis with coma
+Delete:      1 E858    Other amyloidosis                                            Other amyloidosis
+Add:         0 E858    Other amyloidosis                                            Other amyloidosis
+Add:         1 E8581   Light chain (AL) amyloidosis                                 Light chain (AL) amyloidosis
+Add:         1 E8582   Wild-type transthyretin-related (ATTR) amyloidosis           Wild-type transthyretin-related (ATTR) amyloidosis
+Add:         1 E8589   Other amyloidosis                                            Other amyloidosis
+Add:         1 F1011   Alcohol abuse, in remission                                  Alcohol abuse, in remission
+Add:         1 F1111   Opioid abuse, in remission                                   Opioid abuse, in remission
+Add:         1 F1211   Cannabis abuse, in remission                                 Cannabis abuse, in remission
+Add:         1 F1311   Sedative, hypnotic or anxiolytic abuse, in remission         Sedative, hypnotic or anxiolytic abuse, in remission
+Add:         1 F1411   Cocaine abuse, in remission                                  Cocaine abuse, in remission
+Add:         1 F1511   Other stimulant abuse, in remission                          Other stimulant abuse, in remission
+Add:         1 F1611   Hallucinogen abuse, in remission                             Hallucinogen abuse, in remission
+Add:         1 F1811   Inhalant abuse, in remission                                 Inhalant abuse, in remission
+Add:         1 F1911   Other psychoactive substance abuse, in remission             Other psychoactive substance abuse, in remission
+Revise from: 1 F410    Panic disorder without agoraphobia                           Panic disorder [episodic paroxysmal anxiety] without agoraphobia
+Revise to:   1 F410    Panic disorder [episodic paroxysmal anxiety]                 Panic disorder [episodic paroxysmal anxiety]
+Add:         1 F5082   Avoidant/restrictive food intake disorder                    Avoidant/restrictive food intake disorder
+Add:         1 G1223   Primary lateral sclerosis                                    Primary lateral sclerosis
+Add:         1 G1224   Familial motor neuron disease                                Familial motor neuron disease
+Add:         1 G1225   Progressive spinal muscle atrophy                            Progressive spinal muscle atrophy
+Revise from: 0 H0205   Trichiasis without entropian                                 Trichiasis without entropian
+Revise to:   0 H0205   Trichiasis without entropion                                 Trichiasis without entropion
+Revise from: 1 H02051  Trichiasis without entropian right upper eyelid              Trichiasis without entropian right upper eyelid
+Revise to:   1 H02051  Trichiasis without entropion right upper eyelid              Trichiasis without entropion right upper eyelid
+Revise from: 1 H02052  Trichiasis without entropian right lower eyelid              Trichiasis without entropian right lower eyelid
+Revise to:   1 H02052  Trichiasis without entropion right lower eyelid              Trichiasis without entropion right lower eyelid
+Revise from: 1 H02053  Trichiasis without entropian right eye, unspecified eyelid   Trichiasis without entropian right eye, unspecified eyelid
+Revise to:   1 H02053  Trichiasis without entropion right eye, unspecified eyelid   Trichiasis without entropion right eye, unspecified eyelid
+Revise from: 1 H02054  Trichiasis without entropian left upper eyelid               Trichiasis without entropian left upper eyelid
+Revise to:   1 H02054  Trichiasis without entropion left upper eyelid               Trichiasis without entropion left upper eyelid
+Revise from: 1 H02055  Trichiasis without entropian left lower eyelid               Trichiasis without entropian left lower eyelid
+Revise to:   1 H02055  Trichiasis without entropion left lower eyelid               Trichiasis without entropion left lower eyelid
+Revise from: 1 H02056  Trichiasis without entropian left eye, unspecified eyelid    Trichiasis without entropian left eye, unspecified eyelid
+Revise to:   1 H02056  Trichiasis without entropion left eye, unspecified eyelid    Trichiasis without entropion left eye, unspecified eyelid
+Revise from: 1 H02059  Trichiasis without entropian unsp eye, unspecified eyelid    Trichiasis without entropian unspecified eye, unspecified eyelid
+Revise to:   1 H02059  Trichiasis without entropion unsp, unspecified eyelid        Trichiasis without entropion unspecified eye, unspecified eyelid
+Add:         0 H442A   Degenerative myopia with choroidal neovascularization        Degenerative myopia with choroidal neovascularization
+Add:         1 H442A1  Degeneratv myopia with choroidal neovascularization, r eye   Degenerative myopia with choroidal neovascularization, right eye
+Add:         1 H442A2  Degeneratv myopia with choroidal neovascularization, l eye   Degenerative myopia with choroidal neovascularization, left eye
+Add:         1 H442A3  Degeneratv myopia with choroidal neovascularization, bi eye  Degenerative myopia with choroidal neovascularization, bilateral eye
+Add:         1 H442A9  Degenerative myopia with choroidal neovascularization, unsp  Degenerative myopia with choroidal neovascularization, unspecified eye
+Add:         0 H442B   Degenerative myopia with macular hole                        Degenerative myopia with macular hole
+Add:         1 H442B1  Degenerative myopia with macular hole, right eye             Degenerative myopia with macular hole, right eye
+Add:         1 H442B2  Degenerative myopia with macular hole, left eye              Degenerative myopia with macular hole, left eye
+Add:         1 H442B3  Degenerative myopia with macular hole, bilateral eye         Degenerative myopia with macular hole, bilateral eye
+Add:         1 H442B9  Degenerative myopia with macular hole, unspecified eye       Degenerative myopia with macular hole, unspecified eye
+Add:         0 H442C   Degenerative myopia with retinal detachment                  Degenerative myopia with retinal detachment
+Add:         1 H442C1  Degenerative myopia with retinal detachment, right eye       Degenerative myopia with retinal detachment, right eye
+Add:         1 H442C2  Degenerative myopia with retinal detachment, left eye        Degenerative myopia with retinal detachment, left eye
+Add:         1 H442C3  Degenerative myopia with retinal detachment, bilateral eye   Degenerative myopia with retinal detachment, bilateral eye
+Add:         1 H442C9  Degenerative myopia with retinal detachment, unspecified eye Degenerative myopia with retinal detachment, unspecified eye
+Add:         0 H442D   Degenerative myopia with foveoschisis                        Degenerative myopia with foveoschisis
+Add:         1 H442D1  Degenerative myopia with foveoschisis, right eye             Degenerative myopia with foveoschisis, right eye
+Add:         1 H442D2  Degenerative myopia with foveoschisis, left eye              Degenerative myopia with foveoschisis, left eye
+Add:         1 H442D3  Degenerative myopia with foveoschisis, bilateral eye         Degenerative myopia with foveoschisis, bilateral eye
+Add:         1 H442D9  Degenerative myopia with foveoschisis, unspecified eye       Degenerative myopia with foveoschisis, unspecified eye
+Add:         0 H442E   Degenerative myopia with other maculopathy                   Degenerative myopia with other maculopathy
+Add:         1 H442E1  Degenerative myopia with other maculopathy, right eye        Degenerative myopia with other maculopathy, right eye
+Add:         1 H442E2  Degenerative myopia with other maculopathy, left eye         Degenerative myopia with other maculopathy, left eye
+Add:         1 H442E3  Degenerative myopia with other maculopathy, bilateral eye    Degenerative myopia with other maculopathy, bilateral eye
+Add:         1 H442E9  Degenerative myopia with other maculopathy, unspecified eye  Degenerative myopia with other maculopathy, unspecified eye
+Delete:      1 H540    Blindness, both eyes                                         Blindness, both eyes
+Add:         0 H540    Blindness, both eyes                                         Blindness, both eyes
+Add:         0 H540X   Blindness, both eyes, different category levels              Blindness, both eyes, different category levels
+Add:         0 H540X3  Blindness right eye, category 3                              Blindness right eye, category 3
+Add:         1 H540X33 Blindness r eye category 3, blindness left eye category 3    Blindness right eye category 3, blindness left eye category 3
+Add:         1 H540X34 Blindness r eye category 3, blindness left eye category 4    Blindness right eye category 3, blindness left eye category 4
+Add:         1 H540X35 Blindness r eye category 3, blindness left eye category 5    Blindness right eye category 3, blindness left eye category 5
+Add:         0 H540X4  Blindness right eye, category 4                              Blindness right eye, category 4
+Add:         1 H540X43 Blindness r eye category 4, blindness left eye category 3    Blindness right eye category 4, blindness left eye category 3
+Add:         1 H540X44 Blindness r eye category 4, blindness left eye category 4    Blindness right eye category 4, blindness left eye category 4
+Add:         1 H540X45 Blindness r eye category 4, blindness left eye category 5    Blindness right eye category 4, blindness left eye category 5
+Add:         0 H540X5  Blindness right eye, category 5                              Blindness right eye, category 5
+Add:         1 H540X53 Blindness r eye category 5, blindness left eye category 3    Blindness right eye category 5, blindness left eye category 3
+Add:         1 H540X54 Blindness r eye category 5, blindness left eye category 4    Blindness right eye category 5, blindness left eye category 4
+Add:         1 H540X55 Blindness r eye category 5, blindness left eye category 5    Blindness right eye category 5, blindness left eye category 5
+Delete:      1 H5411   Blindness, right eye, low vision left eye                    Blindness, right eye, low vision left eye
+Add:         0 H5411   Blindness, right eye, low vision left eye                    Blindness, right eye, low vision left eye
+Add:         0 H54113  Blindness right eye category 3, low vision left eye          Blindness right eye category 3, low vision left eye
+Add:         1 H541131 Blindness r eye category 3, low vision left eye category 1   Blindness right eye category 3, low vision left eye category 1
+Add:         1 H541132 Blindness r eye category 3, low vision left eye category 2   Blindness right eye category 3, low vision left eye category 2
+Add:         0 H54114  Blindness right eye category 4, low vision left eye          Blindness right eye category 4, low vision left eye
+Add:         1 H541141 Blindness r eye category 4, low vision left eye category 1   Blindness right eye category 4, low vision left eye category 1
+Add:         1 H541142 Blindness r eye category 4, low vision left eye category 2   Blindness right eye category 4, low vision left eye category 2
+Add:         0 H54115  Blindness right eye category 5, low vision left eye          Blindness right eye category 5, low vision left eye
+Add:         1 H541151 Blindness r eye category 5, low vision left eye category 1   Blindness right eye category 5, low vision left eye category 1
+Add:         1 H541152 Blindness r eye category 5, low vision left eye category 2   Blindness right eye category 5, low vision left eye category 2
+Delete:      1 H5412   Blindness, left eye, low vision right eye                    Blindness, left eye, low vision right eye
+Add:         0 H5412   Blindness, left eye, low vision right eye                    Blindness, left eye, low vision right eye
+Add:         0 H54121  Low vision right eye category 1, blindness left eye          Low vision right eye category 1, blindness left eye
+Add:         1 H541213 Low vision r eye category 1, blindness left eye category 3   Low vision right eye category 1, blindness left eye category 3
+Add:         1 H541214 Low vision r eye category 1, blindness left eye category 4   Low vision right eye category 1, blindness left eye category 4
+Add:         1 H541215 Low vision r eye category 1, blindness left eye category 5   Low vision right eye category 1, blindness left eye category 5
+Add:         0 H54122  Low vision right eye category 2, blindness left eye          Low vision right eye category 2, blindness left eye
+Add:         1 H541223 Low vision r eye category 2, blindness left eye category 3   Low vision right eye category 2, blindness left eye category 3
+Add:         1 H541224 Low vision r eye category 2, blindness left eye category 4   Low vision right eye category 2, blindness left eye category 4
+Add:         1 H541225 Low vision r eye category 2, blindness left eye category 5   Low vision right eye category 2, blindness left eye category 5
+Delete:      1 H542    Low vision, both eyes                                        Low vision, both eyes
+Add:         0 H542    Low vision, both eyes                                        Low vision, both eyes
+Add:         0 H542X   Low vision, both eyes, different category levels             Low vision, both eyes, different category levels
+Add:         0 H542X1  Low vision, right eye, category 1                            Low vision, right eye, category 1
+Add:         1 H542X11 Low vision r eye category 1, low vision left eye category 1  Low vision right eye category 1, low vision left eye category 1
+Add:         1 H542X12 Low vision r eye category 1, low vision left eye category 2  Low vision right eye category 1, low vision left eye category 2
+Add:         0 H542X2  Low vision, right eye, category 2                            Low vision, right eye, category 2
+Add:         1 H542X21 Low vision r eye category 2, low vision left eye category 1  Low vision right eye category 2, low vision left eye category 1
+Add:         1 H542X22 Low vision r eye category 2, low vision left eye category 2  Low vision right eye category 2, low vision left eye category 2
+Delete:      1 H5441   Blindness, right eye, normal vision left eye                 Blindness, right eye, normal vision left eye
+Add:         0 H5441   Blindness, right eye, normal vision left eye                 Blindness, right eye, normal vision left eye
+Add:         0 H54413  Blindness, right eye, category 3                             Blindness, right eye, category 3
+Add:         1 H54413A Blindness right eye category 3, normal vision left eye       Blindness right eye category 3, normal vision left eye
+Add:         0 H54414  Blindness, right eye, category  4                            Blindness, right eye, category  4
+Add:         1 H54414A Blindness right eye category 4, normal vision left eye       Blindness right eye category 4, normal vision left eye
+Add:         0 H54415  Blindness, right eye, category 5                             Blindness, right eye, category 5
+Add:         1 H54415A Blindness right eye category 5, normal vision left eye       Blindness right eye category 5, normal vision left eye
+Delete:      1 H5442   Blindness, left eye, normal vision right eye                 Blindness, left eye, normal vision right eye
+Add:         0 H5442   Blindness, left eye, normal vision right eye                 Blindness, left eye, normal vision right eye
+Add:         0 H5442A  Blindness, left eye, category 3-5                            Blindness, left eye, category 3-5
+Add:         1 H5442A3 Blindness left eye category 3, normal vision right eye       Blindness left eye category 3, normal vision right eye
+Add:         1 H5442A4 Blindness left eye category 4, normal vision right eye       Blindness left eye category 4, normal vision right eye
+Add:         1 H5442A5 Blindness left eye category 5, normal vision right eye       Blindness left eye category 5, normal vision right eye
+Delete:      1 H5451   Low vision, right eye, normal vision left eye                Low vision, right eye, normal vision left eye
+Add:         0 H5451   Low vision, right eye, normal vision left eye                Low vision, right eye, normal vision left eye
+Add:         0 H54511  Low vision, right eye, category 1-2                          Low vision, right eye, category 1-2
+Add:         1 H54511A Low vision right eye category 1, normal vision left eye      Low vision right eye category 1, normal vision left eye
+Add:         1 H54512A Low vision right eye category 2, normal vision left eye      Low vision right eye category 2, normal vision left eye
+Delete:      1 H5452   Low vision, left eye, normal vision right eye                Low vision, left eye, normal vision right eye
+Add:         0 H5452   Low vision, left eye, normal vision right eye                Low vision, left eye, normal vision right eye
+Add:         0 H5452A  Low vision, left eye, category 1-2                           Low vision, left eye, category 1-2
+Add:         1 H5452A1 Low vision left eye category 1, normal vision right eye      Low vision left eye category 1, normal vision right eye
+Add:         1 H5452A2 Low vision left eye category 2, normal vision right eye      Low vision left eye category 2, normal vision right eye
+Revise from: 0 I21     STEMI & NSTEMI mocard infrc                                  ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction
+Revise to:   0 I21     Acute myocardial infarction                                  Acute myocardial infarction
+Add:         1 I219    Acute myocardial infarction, unspecified                     Acute myocardial infarction, unspecified
+Add:         0 I21A    Other type of myocardial infarction                          Other type of myocardial infarction
+Add:         1 I21A1   Myocardial infarction type 2                                 Myocardial infarction type 2
+Add:         1 I21A9   Other myocardial infarction type                             Other myocardial infarction type
+Delete:      1 I272    Other secondary pulmonary hypertension                       Other secondary pulmonary hypertension
+Add:         0 I272    Other secondary pulmonary hypertension                       Other secondary pulmonary hypertension
+Add:         1 I2720   Pulmonary hypertension, unspecified                          Pulmonary hypertension, unspecified
+Add:         1 I2721   Secondary pulmonary arterial hypertension                    Secondary pulmonary arterial hypertension
+Add:         1 I2722   Pulmonary hypertension due to left heart disease             Pulmonary hypertension due to left heart disease
+Add:         1 I2723   Pulmonary hypertension due to lung diseases and hypoxia      Pulmonary hypertension due to lung diseases and hypoxia
+Add:         1 I2724   Chronic thromboembolic pulmonary hypertension                Chronic thromboembolic pulmonary hypertension
+Add:         1 I2729   Other secondary pulmonary hypertension                       Other secondary pulmonary hypertension
+Add:         1 I2783   Eisenmenger's syndrome                                       Eisenmenger's syndrome
+Revise from: 1 I501    Left ventricular failure                                     Left ventricular failure
+Revise to:   1 I501    Left ventricular failure, unspecified                        Left ventricular failure, unspecified
+Add:         0 I508    Other heart failure                                          Other heart failure
+Add:         0 I5081   Right heart failure                                          Right heart failure
+Add:         1 I50810  Right heart failure, unspecified                             Right heart failure, unspecified
+Add:         1 I50811  Acute right heart failure                                    Acute right heart failure
+Add:         1 I50812  Chronic right heart failure                                  Chronic right heart failure
+Add:         1 I50813  Acute on chronic right heart failure                         Acute on chronic right heart failure
+Add:         1 I50814  Right heart failure due to left heart failure                Right heart failure due to left heart failure
+Add:         1 I5082   Biventricular heart failure                                  Biventricular heart failure
+Add:         1 I5083   High output heart failure                                    High output heart failure
+Add:         1 I5084   End stage heart failure                                      End stage heart failure
+Add:         1 I5089   Other heart failure                                          Other heart failure
+Revise from: 1 I63211  Cereb infrc due to unsp occls or stenos of right verteb art  Cerebral infarction due to unspecified occlusion or stenosis of right vertebral arteries
+Revise to:   1 I63211  Cerebral infrc due to unsp occls or stenosis of r verteb art Cerebral infarction due to unspecified occlusion or stenosis of right vertebral artery
+Revise from: 1 I63212  Cereb infrc due to unsp occls or stenosis of left verteb art Cerebral infarction due to unspecified occlusion or stenosis of left vertebral arteries
+Revise to:   1 I63212  Cerebral infrc due to unsp occls or stenosis of l verteb art Cerebral infarction due to unspecified occlusion or stenosis of left vertebral artery
+Revise from: 1 I6322   Cerebral infrc due to unsp occls or stenosis of basilar art  Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries
+Revise to:   1 I6322   Cereb infrc due to unsp occls or stenosis of basilar artery  Cerebral infarction due to unspecified occlusion or stenosis of basilar artery
+Revise from: 1 I63323  Cerebral infrc due to thombos of bilateral anterior arteries Cerebral infarction due to thrombosis of bilateral anterior arteries
+Revise to:   1 I63323  Cerebral infrc due to thombos of bi ant cerebral arteries    Cerebral infarction due to thrombosis of bilateral anterior cerebral arteries
+Revise from: 1 I63333  Cerebral infrc to thrombosis of bilateral posterior arteries Cerebral infarction to thrombosis of bilateral posterior arteries
+Revise to:   1 I63333  Cerebral infrc to thombos of bi posterior cerebral arteries  Cerebral infarction to thrombosis of bilateral posterior cerebral arteries
+Revise from: 1 I63513  Cereb infrc due to unsp occls or stenosis of bi middle art   Cerebral infarction due to unspecified occlusion or stenosis of bilateral middle arteries
+Revise to:   1 I63513  Cereb infrc d/t unsp occls or stenos of bi middle cereb art  Cerebral infarction due to unspecified occlusion or stenosis of bilateral middle cerebral arteries
+Revise from: 1 I63523  Cerebral infrc due to unsp occls or stenosis of bi ant art   Cerebral infarction due to unspecified occlusion or stenosis of bilateral anterior arteries
+Revise to:   1 I63523  Cereb infrc due to unsp occls or stenos of bi ant cereb art  Cerebral infarction due to unspecified occlusion or stenosis of bilateral anterior cerebral arteries
+Revise from: 1 I63533  Cerebral infrc due to unsp occls or stenosis of bi post art  Cerebral infarction due to unspecified occlusion or stenosis of bilateral posterior arteries
+Revise to:   1 I63533  Cereb infrc due to unsp occls or stenos of bi post cereb art Cerebral infarction due to unspecified occlusion or stenosis of bilateral posterior cerebral arteries
+Revise from: 1 I82811  Embolism and thrombosis of superfic veins of right low extrm Embolism and thrombosis of superficial veins of right lower extremities
+Revise to:   1 I82811  Embolism and thrombosis of superficial veins of r low extrem Embolism and thrombosis of superficial veins of right lower extremity
+Revise from: 1 I82812  Embolism and thrombosis of superfic veins of left low extrm  Embolism and thrombosis of superficial veins of left lower extremities
+Revise to:   1 I82812  Embolism and thrombosis of superficial veins of l low extrem Embolism and thrombosis of superficial veins of left lower extremity
+Revise from: 1 I82819  Embolism and thrombosis of superficial vn unsp low extrm     Embolism and thrombosis of superficial veins of unspecified lower extremities
+Revise to:   1 I82819  Embolism and thrombosis of superficial vn unsp low extrm     Embolism and thrombosis of superficial veins of unspecified lower extremity
+Revise from: 1 I83811  Varicose veins of right lower extremities with pain          Varicose veins of right lower extremities with pain
+Revise to:   1 I83811  Varicose veins of right lower extremity with pain            Varicose veins of right lower extremity with pain
+Revise from: 1 I83812  Varicose veins of left lower extremities with pain           Varicose veins of left lower extremities with pain
+Revise to:   1 I83812  Varicose veins of left lower extremity with pain             Varicose veins of left lower extremity with pain
+Revise from: 1 I83819  Varicose veins of unspecified lower extremities with pain    Varicose veins of unspecified lower extremities with pain
+Revise to:   1 I83819  Varicose veins of unspecified lower extremity with pain      Varicose veins of unspecified lower extremity with pain
+Revise from: 1 I83891  Varicose veins of right low extrm w oth complications        Varicose veins of right lower extremities with other complications
+Revise to:   1 I83891  Varicose veins of r low extrem with other complications      Varicose veins of right lower extremity with other complications
+Revise from: 1 I83892  Varicose veins of left lower extremities w oth complications Varicose veins of left lower extremities with other complications
+Revise to:   1 I83892  Varicose veins of l low extrem with other complications      Varicose veins of left lower extremity with other complications
+Revise from: 1 I83899  Varicose veins of unsp lower extremities w oth complications Varicose veins of unspecified lower extremities with other complications
+Revise to:   1 I83899  Varicos vn unsp lower extremity with other complications     Varicose veins of unspecified lower extremity with other complications
+Revise from: 1 J156    Pneumonia due to other aerobic Gram-negative bacteria        Pneumonia due to other aerobic Gram-negative bacteria
+Revise to:   1 J156    Pneumonia due to other Gram-negative bacteria                Pneumonia due to other Gram-negative bacteria
+Delete:      1 K060    Gingival recession                                           Gingival recession
+Add:         0 K060    Gingival recession                                           Gingival recession
+Add:         0 K0601   Gingival recession, localized                                Gingival recession, localized
+Add:         1 K06010  Localized gingival recession, unspecified                    Localized gingival recession, unspecified
+Add:         1 K06011  Localized gingival recession, minimal                        Localized gingival recession, minimal
+Add:         1 K06012  Localized gingival recession, moderate                       Localized gingival recession, moderate
+Add:         1 K06013  Localized gingival recession, severe                         Localized gingival recession, severe
+Add:         0 K0602   Gingival recession, generalized                              Gingival recession, generalized
+Add:         1 K06020  Generalized gingival recession, unspecified                  Generalized gingival recession, unspecified
+Add:         1 K06021  Generalized gingival recession, minimal                      Generalized gingival recession, minimal
+Add:         1 K06022  Generalized gingival recession, moderate                     Generalized gingival recession, moderate
+Add:         1 K06023  Generalized gingival recession, severe                       Generalized gingival recession, severe
+Delete:      1 K565    Intestinal adhesions w obst (postprocedural) (postinfection) Intestinal adhesions [bands] with obstruction (postprocedural) (postinfection)
+Add:         0 K565    Intestinal adhesions with obstruction (postinfection)        Intestinal adhesions [bands] with obstruction (postinfection)
+Add:         1 K5650   Intestnl adhesions, unsp as to partial versus complete obst  Intestinal adhesions [bands], unspecified as to partial versus complete obstruction
+Add:         1 K5651   Intestinal adhesions [bands], with partial obstruction       Intestinal adhesions [bands], with partial obstruction
+Add:         1 K5652   Intestinal adhesions [bands] with complete obstruction       Intestinal adhesions [bands] with complete obstruction
+Delete:      1 K5660   Unspecified intestinal obstruction                           Unspecified intestinal obstruction
+Add:         0 K5660   Unspecified intestinal obstruction                           Unspecified intestinal obstruction
+Add:         1 K56600  Partial intestinal obstruction, unspecified as to cause      Partial intestinal obstruction, unspecified as to cause
+Add:         1 K56601  Complete intestinal obstruction, unspecified as to cause     Complete intestinal obstruction, unspecified as to cause
+Add:         1 K56609  Unsp intestnl obst, unsp as to partial versus complete obst  Unspecified intestinal obstruction, unspecified as to partial versus complete obstruction
+Delete:      1 K5669   Other intestinal obstruction                                 Other intestinal obstruction
+Add:         0 K5669   Other intestinal obstruction                                 Other intestinal obstruction
+Add:         1 K56690  Other partial intestinal obstruction                         Other partial intestinal obstruction
+Add:         1 K56691  Other complete intestinal obstruction                        Other complete intestinal obstruction
+Add:         1 K56699  Other intestnl obst unsp as to partial versus complete obst  Other intestinal obstruction unspecified as to partial versus complete obstruction
+Delete:      1 K913    Postprocedural intestinal obstruction                        Postprocedural intestinal obstruction
+Add:         0 K913    Postprocedural intestinal obstruction                        Postprocedural intestinal obstruction
+Add:         1 K9130   Postproc intestinal obst, unsp as to partial versus complete Postprocedural intestinal obstruction, unspecified as to partial versus complete
+Add:         1 K9131   Postprocedural partial intestinal obstruction                Postprocedural partial intestinal obstruction
+Add:         1 K9132   Postprocedural complete intestinal obstruction               Postprocedural complete intestinal obstruction
+Add:         1 L97105  Non-prs chr ulc of unsp thigh with msl invl w/o evd of necr  Non-pressure chronic ulcer of unspecified thigh with muscle involvement without evidence of necrosis
+Add:         1 L97106  Non-prs chr ulc of unsp thigh with bone invl w/o evd of necr Non-pressure chronic ulcer of unspecified thigh with bone involvement without evidence of necrosis
+Add:         1 L97108  Non-prs chronic ulcer of unspecified thigh with oth severity Non-pressure chronic ulcer of unspecified thigh with other specified severity
+Add:         1 L97115  Non-prs chr ulcer of r thigh with msl invl w/o evd of necr   Non-pressure chronic ulcer of right thigh with muscle involvement without evidence of necrosis
+Add:         1 L97116  Non-prs chr ulcer of r thigh with bone invl w/o evd of necr  Non-pressure chronic ulcer of right thigh with bone involvement without evidence of necrosis
+Add:         1 L97118  Non-pressure chronic ulcer of right thigh with oth severity  Non-pressure chronic ulcer of right thigh with other specified severity
+Add:         1 L97125  Non-prs chr ulc of left thigh with msl invl w/o evd of necr  Non-pressure chronic ulcer of left thigh with muscle involvement without evidence of necrosis
+Add:         1 L97126  Non-prs chr ulc of left thigh with bone invl w/o evd of necr Non-pressure chronic ulcer of left thigh with bone involvement without evidence of necrosis
+Add:         1 L97128  Non-pressure chronic ulcer of left thigh with oth severity   Non-pressure chronic ulcer of left thigh with other specified severity
+Add:         1 L97205  Non-prs chr ulcer of unsp calf with msl invl w/o evd of necr Non-pressure chronic ulcer of unspecified calf with muscle involvement without evidence of necrosis
+Add:         1 L97206  Non-prs chr ulc of unsp calf with bone invl w/o evd of necr  Non-pressure chronic ulcer of unspecified calf with bone involvement without evidence of necrosis
+Add:         1 L97208  Non-prs chronic ulcer of unspecified calf with oth severity  Non-pressure chronic ulcer of unspecified calf with other specified severity
+Add:         1 L97215  Non-prs chr ulcer of r calf with msl invl w/o evd of necr    Non-pressure chronic ulcer of right calf with muscle involvement without evidence of necrosis
+Add:         1 L97216  Non-prs chr ulcer of r calf with bone invl w/o evd of necr   Non-pressure chronic ulcer of right calf with bone involvement without evidence of necrosis
+Add:         1 L97218  Non-pressure chronic ulcer of right calf with oth severity   Non-pressure chronic ulcer of right calf with other specified severity
+Add:         1 L97225  Non-prs chr ulcer of left calf with msl invl w/o evd of necr Non-pressure chronic ulcer of left calf with muscle involvement without evidence of necrosis
+Add:         1 L97226  Non-prs chr ulc of left calf with bone invl w/o evd of necr  Non-pressure chronic ulcer of left calf with bone involvement without evidence of necrosis
+Add:         1 L97228  Non-pressure chronic ulcer of left calf with oth severity    Non-pressure chronic ulcer of left calf with other specified severity
+Add:         1 L97305  Non-prs chr ulcer of unsp ankl with msl invl w/o evd of necr Non-pressure chronic ulcer of unspecified ankle with muscle involvement without evidence of necrosis
+Add:         1 L97306  Non-prs chr ulc of unsp ankl with bone invl w/o evd of necr  Non-pressure chronic ulcer of unspecified ankle with bone involvement without evidence of necrosis
+Add:         1 L97308  Non-prs chronic ulcer of unspecified ankle with oth severity Non-pressure chronic ulcer of unspecified ankle with other specified severity
+Add:         1 L97315  Non-prs chr ulcer of r ankle with msl invl w/o evd of necr   Non-pressure chronic ulcer of right ankle with muscle involvement without evidence of necrosis
+Add:         1 L97316  Non-prs chr ulcer of r ankle with bone invl w/o evd of necr  Non-pressure chronic ulcer of right ankle with bone involvement without evidence of necrosis
+Add:         1 L97318  Non-pressure chronic ulcer of right ankle with oth severity  Non-pressure chronic ulcer of right ankle with other specified severity
+Add:         1 L97325  Non-prs chr ulcer of l ankle with msl invl w/o evd of necr   Non-pressure chronic ulcer of left ankle with muscle involvement without evidence of necrosis
+Add:         1 L97326  Non-prs chr ulcer of l ankle with bone invl w/o evd of necr  Non-pressure chronic ulcer of left ankle with bone involvement without evidence of necrosis
+Add:         1 L97328  Non-pressure chronic ulcer of left ankle with oth severity   Non-pressure chronic ulcer of left ankle with other specified severity
+Add:         1 L97405  Non-prs chr ulc unsp heel/midft w msl invl w/o evd of necr   Non-pressure chronic ulcer of unspecified heel and midfoot with muscle involvement without evidence of necrosis
+Add:         1 L97406  Non-prs chr ulc unsp heel/midft w bne invl w/o evd of necr   Non-pressure chronic ulcer of unspecified heel and midfoot with bone involvement without evidence of necrosis
+Add:         1 L97408  Non-prs chronic ulcer of unsp heel/midft with oth severity   Non-pressure chronic ulcer of unspecified heel and midfoot with other specified severity
+Add:         1 L97415  Non-prs chr ulc of r heel/midft w msl invl w/o evd of necr   Non-pressure chronic ulcer of right heel and midfoot with muscle involvement without evidence of necrosis
+Add:         1 L97416  Non-prs chr ulc of r heel/midft w bne invl w/o evd of necr   Non-pressure chronic ulcer of right heel and midfoot with bone involvement without evidence of necrosis
+Add:         1 L97418  Non-prs chronic ulcer of right heel/midft with oth severity  Non-pressure chronic ulcer of right heel and midfoot with other specified severity
+Add:         1 L97425  Non-prs chr ulc of l heel/midft w msl invl w/o evd of necr   Non-pressure chronic ulcer of left heel and midfoot with muscle involvement without evidence of necrosis
+Add:         1 L97426  Non-prs chr ulc of l heel/midft w bne invl w/o evd of necr   Non-pressure chronic ulcer of left heel and midfoot with bone involvement without evidence of necrosis
+Add:         1 L97428  Non-prs chronic ulcer of left heel/midft with oth severity   Non-pressure chronic ulcer of left heel and midfoot with other specified severity
+Add:         1 L97505  Non-prs chr ulc oth prt unsp ft w msl invl w/o evd of necr   Non-pressure chronic ulcer of other part of unspecified foot with muscle involvement without evidence of necrosis
+Add:         1 L97506  Non-prs chr ulc oth prt unsp ft w bne invl w/o evd of necr   Non-pressure chronic ulcer of other part of unspecified foot with bone involvement without evidence of necrosis
+Add:         1 L97508  Non-prs chronic ulcer oth prt unsp foot with oth severity    Non-pressure chronic ulcer of other part of unspecified foot with other specified severity
+Add:         1 L97515  Non-prs chr ulc oth prt r foot with msl invl w/o evd of necr Non-pressure chronic ulcer of other part of right foot with muscle involvement without evidence of necrosis
+Add:         1 L97516  Non-prs chr ulc oth prt r foot with bne invl w/o evd of necr Non-pressure chronic ulcer of other part of right foot with bone involvement without evidence of necrosis
+Add:         1 L97518  Non-prs chronic ulcer oth prt right foot with oth severity   Non-pressure chronic ulcer of other part of right foot with other specified severity
+Add:         1 L97525  Non-prs chr ulc oth prt l foot with msl invl w/o evd of necr Non-pressure chronic ulcer of other part of left foot with muscle involvement without evidence of necrosis
+Add:         1 L97526  Non-prs chr ulc oth prt l foot with bne invl w/o evd of necr Non-pressure chronic ulcer of other part of left foot with bone involvement without evidence of necrosis
+Add:         1 L97528  Non-prs chronic ulcer oth prt left foot with oth severity    Non-pressure chronic ulcer of other part of left foot with other specified severity
+Add:         1 L97805  Non-prs chr ulc oth prt unsp lw leg w msl invl w/o evd necr  Non-pressure chronic ulcer of other part of unspecified lower leg with muscle involvement without evidence of necrosis
+Add:         1 L97806  Non-prs chr ulc oth prt unsp lw leg w bne invl w/o evd necr  Non-pressure chronic ulcer of other part of unspecified lower leg with bone involvement without evidence of necrosis
+Add:         1 L97808  Non-prs chronic ulcer oth prt unsp low leg with oth severity Non-pressure chronic ulcer of other part of unspecified lower leg with other specified severity
+Add:         1 L97815  Non-prs chr ulc oth prt r low leg w msl invl w/o evd of necr Non-pressure chronic ulcer of other part of right lower leg with muscle involvement without evidence of necrosis
+Add:         1 L97816  Non-prs chr ulc oth prt r low leg w bne invl w/o evd of necr Non-pressure chronic ulcer of other part of right lower leg with bone involvement without evidence of necrosis
+Add:         1 L97818  Non-prs chronic ulcer oth prt r low leg with oth severity    Non-pressure chronic ulcer of other part of right lower leg with other specified severity
+Add:         1 L97825  Non-prs chr ulc oth prt l low leg w msl invl w/o evd of necr Non-pressure chronic ulcer of other part of left lower leg with muscle involvement without evidence of necrosis
+Add:         1 L97826  Non-prs chr ulc oth prt l low leg w bne invl w/o evd of necr Non-pressure chronic ulcer of other part of left lower leg with bone involvement without evidence of necrosis
+Add:         1 L97828  Non-prs chronic ulcer oth prt l low leg with oth severity    Non-pressure chronic ulcer of other part of left lower leg with other specified severity
+Add:         1 L97905  Non-prs chr ulc unsp prt unsp lw leg w msl invl w/o evd necr Non-pressure chronic ulcer of unspecified part of unspecified lower leg with muscle involvement without evidence of necrosis
+Add:         1 L97906  Non-prs chr ulc unsp prt unsp lw leg w bne invl w/o evd necr Non-pressure chronic ulcer of unspecified part of unspecified lower leg with bone involvement without evidence of necrosis
+Add:         1 L97908  Non-prs chronic ulc unsp prt of unsp low leg with oth severt Non-pressure chronic ulcer of unspecified part of unspecified lower leg with other specified severity
+Add:         1 L97915  Non-prs chr ulc unsp prt r lw leg w msl invl w/o evd of necr Non-pressure chronic ulcer of unspecified part of right lower leg with muscle involvement without evidence of necrosis
+Add:         1 L97916  Non-prs chr ulc unsp prt r lw leg w bne invl w/o evd of necr Non-pressure chronic ulcer of unspecified part of right lower leg with bone involvement without evidence of necrosis
+Add:         1 L97918  Non-prs chronic ulc unsp prt of r low leg with oth severity  Non-pressure chronic ulcer of unspecified part of right lower leg with other specified severity
+Add:         1 L97925  Non-prs chr ulc unsp prt l lw leg w msl invl w/o evd of necr Non-pressure chronic ulcer of unspecified part of left lower leg with muscle involvement without evidence of necrosis
+Add:         1 L97926  Non-prs chr ulc unsp prt l lw leg w bne invl w/o evd of necr Non-pressure chronic ulcer of unspecified part of left lower leg with bone involvement without evidence of necrosis
+Add:         1 L97928  Non-prs chronic ulc unsp prt of l low leg with oth severity  Non-pressure chronic ulcer of unspecified part of left lower leg with other specified severity
+Add:         1 L98415  Non-prs chr ulcer of buttock with msl invl w/o evd of necr   Non-pressure chronic ulcer of buttock with muscle involvement without evidence of necrosis
+Add:         1 L98416  Non-prs chr ulcer of buttock with bone invl w/o evd of necr  Non-pressure chronic ulcer of buttock with bone involvement without evidence of necrosis
+Add:         1 L98418  Non-pressure chronic ulcer of buttock with oth severity      Non-pressure chronic ulcer of buttock with other specified severity
+Add:         1 L98425  Non-prs chr ulcer of back with muscle invl w/o evd of necr   Non-pressure chronic ulcer of back with muscle involvement without evidence of necrosis
+Add:         1 L98426  Non-prs chr ulcer of back with bone invl without evd of necr Non-pressure chronic ulcer of back with bone involvement without evidence of necrosis
+Add:         1 L98428  Non-pressure chronic ulcer of back with oth severity         Non-pressure chronic ulcer of back with other specified severity
+Add:         1 L98495  Non-prs chr ulcer of sites with muscle invl w/o evd of necr  Non-pressure chronic ulcer of other sites with muscle involvement without evidence of necrosis
+Add:         1 L98496  Non-prs chr ulcer of sites with bone invl w/o evd of necr    Non-pressure chronic ulcer of other sites with bone involvement without evidence of necrosis
+Add:         1 L98498  Non-pressure chronic ulcer of other sites with oth severity  Non-pressure chronic ulcer of other sites with other specified severity
+Revise from: 0 M330    Juvenile dermatopolymyositis                                 Juvenile dermatopolymyositis
+Revise to:   0 M330    Juvenile dermatomyositis                                     Juvenile dermatomyositis
+Revise from: 1 M3300   Juvenile dermatopolymyositis, organ involvement unspecified  Juvenile dermatopolymyositis, organ involvement unspecified
+Revise to:   1 M3300   Juvenile dermatomyositis, organ involvement unspecified      Juvenile dermatomyositis, organ involvement unspecified
+Revise from: 1 M3301   Juvenile dermatopolymyositis with respiratory involvement    Juvenile dermatopolymyositis with respiratory involvement
+Revise to:   1 M3301   Juvenile dermatomyositis with respiratory involvement        Juvenile dermatomyositis with respiratory involvement
+Revise from: 1 M3302   Juvenile dermatopolymyositis with myopathy                   Juvenile dermatopolymyositis with myopathy
+Revise to:   1 M3302   Juvenile dermatomyositis with myopathy                       Juvenile dermatomyositis with myopathy
+Add:         1 M3303   Juvenile dermatomyositis without myopathy                    Juvenile dermatomyositis without myopathy
+Revise from: 1 M3309   Juvenile dermatopolymyositis with other organ involvement    Juvenile dermatopolymyositis with other organ involvement
+Revise to:   1 M3309   Juvenile dermatomyositis with other organ involvement        Juvenile dermatomyositis with other organ involvement
+Revise from: 0 M331    Other dermatopolymyositis                                    Other dermatopolymyositis
+Revise to:   0 M331    Other dermatomyositis                                        Other dermatomyositis
+Revise from: 1 M3310   Other dermatopolymyositis, organ involvement unspecified     Other dermatopolymyositis, organ involvement unspecified
+Revise to:   1 M3310   Other dermatomyositis, organ involvement unspecified         Other dermatomyositis, organ involvement unspecified
+Revise from: 1 M3311   Other dermatopolymyositis with respiratory involvement       Other dermatopolymyositis with respiratory involvement
+Revise to:   1 M3311   Other dermatomyositis with respiratory involvement           Other dermatomyositis with respiratory involvement
+Revise from: 1 M3312   Other dermatopolymyositis with myopathy                      Other dermatopolymyositis with myopathy
+Revise to:   1 M3312   Other dermatomyositis with myopathy                          Other dermatomyositis with myopathy
+Add:         1 M3313   Other dermatomyositis without myopathy                       Other dermatomyositis without myopathy
+Revise from: 1 M3319   Other dermatopolymyositis with other organ involvement       Other dermatopolymyositis with other organ involvement
+Revise to:   1 M3319   Other dermatomyositis with other organ involvement           Other dermatomyositis with other organ involvement
+Add:         1 M3393   Dermatopolymyositis, unspecified without myopathy            Dermatopolymyositis, unspecified without myopathy
+Delete:      1 M4806   Spinal stenosis, lumbar region                               Spinal stenosis, lumbar region
+Add:         0 M4806   Spinal stenosis, lumbar region                               Spinal stenosis, lumbar region
+Add:         1 M48061  Spinal stenosis, lumbar region without neurogenic claud      Spinal stenosis, lumbar region without neurogenic claudication
+Add:         1 M48062  Spinal stenosis, lumbar region with neurogenic claudication  Spinal stenosis, lumbar region with neurogenic claudication
+Revise from: 1 N35112  Postinfective bulbous urethral stricture, NEC                Postinfective bulbous urethral stricture, not elsewhere classified
+Revise to:   1 N35112  Postinfective bulbous urethral stricture, NEC, male          Postinfective bulbous urethral stricture, not elsewhere classified, male
+Revise from: 1 N35113  Postinfective membranous urethral stricture, NEC             Postinfective membranous urethral stricture, not elsewhere classified
+Revise to:   1 N35113  Postinfective membranous urethral stricture, NEC, male       Postinfective membranous urethral stricture, not elsewhere classified, male
+Revise from: 1 N35114  Postinfective anterior urethral stricture, NEC               Postinfective anterior urethral stricture, not elsewhere classified
+Revise to:   1 N35114  Postinfective anterior urethral stricture, NEC, male         Postinfective anterior urethral stricture, not elsewhere classified, male
+Delete:      1 N63     Unspecified lump in breast                                   Unspecified lump in breast
+Add:         0 N63     Unspecified lump in breast                                   Unspecified lump in breast
+Add:         1 N630    Unspecified lump in unspecified  breast                      Unspecified lump in unspecified  breast
+Add:         0 N631    Unspecified lump in the right breast                         Unspecified lump in the right breast
+Add:         1 N6310   Unspecified lump in the right breast, unspecified quadrant   Unspecified lump in the right breast, unspecified quadrant
+Add:         1 N6311   Unspecified lump in the right breast, upper outer quadrant   Unspecified lump in the right breast, upper outer quadrant
+Add:         1 N6312   Unspecified lump in the right breast, upper inner quadrant   Unspecified lump in the right breast, upper inner quadrant
+Add:         1 N6313   Unspecified lump in the right breast, lower outer quadrant   Unspecified lump in the right breast, lower outer quadrant
+Add:         1 N6314   Unspecified lump in the right breast, lower inner quadrant   Unspecified lump in the right breast, lower inner quadrant
+Add:         0 N632    Unspecified lump in the left breast                          Unspecified lump in the left breast
+Add:         1 N6320   Unspecified lump in the left breast, unspecified quadrant    Unspecified lump in the left breast, unspecified quadrant
+Add:         1 N6321   Unspecified lump in the left breast, upper outer quadrant    Unspecified lump in the left breast, upper outer quadrant
+Add:         1 N6322   Unspecified lump in the left breast, upper inner quadrant    Unspecified lump in the left breast, upper inner quadrant
+Add:         1 N6323   Unspecified lump in the left breast, lower outer quadrant    Unspecified lump in the left breast, lower outer quadrant
+Add:         1 N6324   Unspecified lump in the left breast, lower inner quadrant    Unspecified lump in the left breast, lower inner quadrant
+Add:         0 N633    Unspecified lump in axillary tail                            Unspecified lump in axillary tail
+Add:         1 N6331   Unspecified lump in axillary tail of the right breast        Unspecified lump in axillary tail of the right breast
+Add:         1 N6332   Unspecified lump in axillary tail of the left breast         Unspecified lump in axillary tail of the left breast
+Add:         0 N634    Unspecified lump in breast, subareolar                       Unspecified lump in breast, subareolar
+Add:         1 N6341   Unspecified lump in right breast, subareolar                 Unspecified lump in right breast, subareolar
+Add:         1 N6342   Unspecified lump in left breast, subareolar                  Unspecified lump in left breast, subareolar
+Revise from: 1 N99111  Postprocedural bulbous urethral stricture                    Postprocedural bulbous urethral stricture
+Revise to:   1 N99111  Postprocedural bulbous urethral stricture, male              Postprocedural bulbous urethral stricture, male
+Revise from: 1 N99112  Postprocedural membranous urethral stricture                 Postprocedural membranous urethral stricture
+Revise to:   1 N99112  Postprocedural membranous urethral stricture, male           Postprocedural membranous urethral stricture, male
+Revise from: 1 N99113  Postprocedural anterior bulbous urethral stricture           Postprocedural anterior bulbous urethral stricture
+Revise to:   1 N99113  Postprocedural anterior bulbous urethral stricture, male     Postprocedural anterior bulbous urethral stricture, male
+Delete:      1 O0010   Tubal pregnancy without intrauterine pregnancy               Tubal pregnancy without intrauterine pregnancy
+Add:         0 O0010   Tubal pregnancy without intrauterine pregnancy               Tubal pregnancy without intrauterine pregnancy
+Add:         1 O00101  Right tubal pregnancy without intrauterine pregnancy         Right tubal pregnancy without intrauterine pregnancy
+Add:         1 O00102  Left tubal pregnancy without intrauterine pregnancy          Left tubal pregnancy without intrauterine pregnancy
+Add:         1 O00109  Unspecified tubal pregnancy without intrauterine pregnancy   Unspecified tubal pregnancy without intrauterine pregnancy
+Delete:      1 O0011   Tubal pregnancy with intrauterine pregnancy                  Tubal pregnancy with intrauterine pregnancy
+Add:         0 O0011   Tubal pregnancy with intrauterine pregnancy                  Tubal pregnancy with intrauterine pregnancy
+Add:         1 O00111  Right tubal pregnancy with intrauterine pregnancy            Right tubal pregnancy with intrauterine pregnancy
+Add:         1 O00112  Left tubal pregnancy with intrauterine pregnancy             Left tubal pregnancy with intrauterine pregnancy
+Add:         1 O00119  Unspecified tubal pregnancy with intrauterine pregnancy      Unspecified tubal pregnancy with intrauterine pregnancy
+Delete:      1 O0020   Ovarian pregnancy without intrauterine pregnancy             Ovarian pregnancy without intrauterine pregnancy
+Add:         0 O0020   Ovarian pregnancy without intrauterine pregnancy             Ovarian pregnancy without intrauterine pregnancy
+Add:         1 O00201  Right ovarian pregnancy without intrauterine pregnancy       Right ovarian pregnancy without intrauterine pregnancy
+Add:         1 O00202  Left ovarian pregnancy without intrauterine pregnancy        Left ovarian pregnancy without intrauterine pregnancy
+Add:         1 O00209  Unspecified ovarian pregnancy without intrauterine pregnancy Unspecified ovarian pregnancy without intrauterine pregnancy
+Delete:      1 O0021   Ovarian pregnancy with intrauterine pregnancy                Ovarian pregnancy with intrauterine pregnancy
+Add:         0 O0021   Ovarian pregnancy with intrauterine pregnancy                Ovarian pregnancy with intrauterine pregnancy
+Add:         1 O00211  Right ovarian pregnancy with intrauterine pregnancy          Right ovarian pregnancy with intrauterine pregnancy
+Add:         1 O00212  Left ovarian pregnancy without intrauterine pregnancy        Left ovarian pregnancy without intrauterine pregnancy
+Add:         1 O00219  Unspecified ovarian pregnancy with intrauterine pregnancy    Unspecified ovarian pregnancy with intrauterine pregnancy
+Add:         0 O3683   Maternal care for abnlt of the fetal heart rate or rhythm    Maternal care for abnormalities of the fetal heart rate or rhythm
+Add:         0 O36831  Matern care for abnlt of fetal heart rate or rhym, first tri Maternal care for abnormalities of the fetal heart rate or rhythm, first trimester
+Add:         1 O368310 Matern care for abnlt fetl hrt rate or rhym, 1st tri, unsp   Maternal care for abnormalities of the fetal heart rate or rhythm, first trimester, not applicable or unspecified
+Add:         1 O368311 Matern care for abnlt fetl hrt rate or rhym, 1st tri, fts1   Maternal care for abnormalities of the fetal heart rate or rhythm, first trimester, fetus 1
+Add:         1 O368312 Matern care for abnlt fetl hrt rate or rhym, 1st tri, fts2   Maternal care for abnormalities of the fetal heart rate or rhythm, first trimester, fetus 2
+Add:         1 O368313 Matern care for abnlt fetl hrt rate or rhym, 1st tri, fts3   Maternal care for abnormalities of the fetal heart rate or rhythm, first trimester, fetus 3
+Add:         1 O368314 Matern care for abnlt fetl hrt rate or rhym, 1st tri, fts4   Maternal care for abnormalities of the fetal heart rate or rhythm, first trimester, fetus 4
+Add:         1 O368315 Matern care for abnlt fetl hrt rate or rhym, 1st tri, fts5   Maternal care for abnormalities of the fetal heart rate or rhythm, first trimester, fetus 5
+Add:         1 O368319 Matern care for abnlt of fetl hrt rate or rhym, 1st tri, oth Maternal care for abnormalities of the fetal heart rate or rhythm, first trimester, other fetus
+Add:         0 O36832  Matern care for abnlt of fetal heart rate or rhym, 2nd tri   Maternal care for abnormalities of the fetal heart rate or rhythm, second trimester
+Add:         1 O368320 Matern care for abnlt fetl hrt rate or rhym, 2nd tri, unsp   Maternal care for abnormalities of the fetal heart rate or rhythm, second trimester, not applicable or unspecified
+Add:         1 O368321 Matern care for abnlt fetl hrt rate or rhym, 2nd tri, fts1   Maternal care for abnormalities of the fetal heart rate or rhythm, second trimester, fetus 1
+Add:         1 O368322 Matern care for abnlt fetl hrt rate or rhym, 2nd tri, fts2   Maternal care for abnormalities of the fetal heart rate or rhythm, second trimester, fetus 2
+Add:         1 O368323 Matern care for abnlt fetl hrt rate or rhym, 2nd tri, fts3   Maternal care for abnormalities of the fetal heart rate or rhythm, second trimester, fetus 3
+Add:         1 O368324 Matern care for abnlt fetl hrt rate or rhym, 2nd tri, fts4   Maternal care for abnormalities of the fetal heart rate or rhythm, second trimester, fetus 4
+Add:         1 O368325 Matern care for abnlt fetl hrt rate or rhym, 2nd tri, fts5   Maternal care for abnormalities of the fetal heart rate or rhythm, second trimester, fetus 5
+Add:         1 O368329 Matern care for abnlt of fetl hrt rate or rhym, 2nd tri, oth Maternal care for abnormalities of the fetal heart rate or rhythm, second trimester, other fetus
+Add:         0 O36833  Matern care for abnlt of fetal heart rate or rhym, third tri Maternal care for abnormalities of the fetal heart rate or rhythm, third trimester
+Add:         1 O368330 Matern care for abnlt fetl hrt rate or rhym, 3rd tri, unsp   Maternal care for abnormalities of the fetal heart rate or rhythm, third trimester, not applicable or unspecified
+Add:         1 O368331 Matern care for abnlt fetl hrt rate or rhym, 3rd tri, fts1   Maternal care for abnormalities of the fetal heart rate or rhythm, third trimester, fetus 1
+Add:         1 O368332 Matern care for abnlt fetl hrt rate or rhym, 3rd tri, fts2   Maternal care for abnormalities of the fetal heart rate or rhythm, third trimester, fetus 2
+Add:         1 O368333 Matern care for abnlt fetl hrt rate or rhym, 3rd tri, fts3   Maternal care for abnormalities of the fetal heart rate or rhythm, third trimester, fetus 3
+Add:         1 O368334 Matern care for abnlt fetl hrt rate or rhym, 3rd tri, fts4   Maternal care for abnormalities of the fetal heart rate or rhythm, third trimester, fetus 4
+Add:         1 O368335 Matern care for abnlt fetl hrt rate or rhym, 3rd tri, fts5   Maternal care for abnormalities of the fetal heart rate or rhythm, third trimester, fetus 5
+Add:         1 O368339 Matern care for abnlt of fetl hrt rate or rhym, 3rd tri, oth Maternal care for abnormalities of the fetal heart rate or rhythm, third trimester, other fetus
+Add:         0 O36839  Matern care for abnlt of fetal heart rate or rhym, unsp tri  Maternal care for abnormalities of the fetal heart rate or rhythm, unspecified trimester
+Add:         1 O368390 Matern care for abnlt fetl hrt rate or rhym, unsp tri, unsp  Maternal care for abnormalities of the fetal heart rate or rhythm, unspecified trimester, not applicable or unspecified
+Add:         1 O368391 Matern care for abnlt fetl hrt rate or rhym, unsp tri, fts1  Maternal care for abnormalities of the fetal heart rate or rhythm, unspecified trimester, fetus 1
+Add:         1 O368392 Matern care for abnlt fetl hrt rate or rhym, unsp tri, fts2  Maternal care for abnormalities of the fetal heart rate or rhythm, unspecified trimester, fetus 2
+Add:         1 O368393 Matern care for abnlt fetl hrt rate or rhym, unsp tri, fts3  Maternal care for abnormalities of the fetal heart rate or rhythm, unspecified trimester, fetus 3
+Add:         1 O368394 Matern care for abnlt fetl hrt rate or rhym, unsp tri, fts4  Maternal care for abnormalities of the fetal heart rate or rhythm, unspecified trimester, fetus 4
+Add:         1 O368395 Matern care for abnlt fetl hrt rate or rhym, unsp tri, fts5  Maternal care for abnormalities of the fetal heart rate or rhythm, unspecified trimester, fetus 5
+Add:         1 O368399 Matern care for abnlt fetl hrt rate or rhym, unsp tri, oth   Maternal care for abnormalities of the fetal heart rate or rhythm, unspecified trimester, other fetus
+Delete:      1 P293    Persistent fetal circulation                                 Persistent fetal circulation
+Add:         0 P293    Persistent fetal circulation                                 Persistent fetal circulation
+Add:         1 P2930   Pulmonary hypertension of newborn                            Pulmonary hypertension of newborn
+Add:         1 P2938   Other persistent fetal circulation                           Other persistent fetal circulation
+Add:         1 P7884   Gestational alloimmune liver disease                         Gestational alloimmune liver disease
+Delete:      1 P838    Other specified conditions of integument specific to newborn Other specified conditions of integument specific to newborn
+Add:         0 P838    Other specified conditions of integument specific to newborn Other specified conditions of integument specific to newborn
+Add:         1 P8381   Umbilical granuloma                                          Umbilical granuloma
+Add:         1 P8388   Other specified conditions of integument specific to newborn Other specified conditions of integument specific to newborn
+Delete:      1 P918    Other specified disturbances of cerebral status of newborn   Other specified disturbances of cerebral status of newborn
+Add:         0 P918    Other specified disturbances of cerebral status of newborn   Other specified disturbances of cerebral status of newborn
+Add:         0 P9181   Neonatal encephalopathy                                      Neonatal encephalopathy
+Add:         1 P91811  Neonatal encephalopathy in diseases classified elsewhere     Neonatal encephalopathy in diseases classified elsewhere
+Add:         1 P91819  Neonatal encephalopathy, unspecified                         Neonatal encephalopathy, unspecified
+Add:         1 P9188   Other specified disturbances of cerebral status of newborn   Other specified disturbances of cerebral status of newborn
+Delete:      1 Q5311   Abdominal testis, unilateral                                 Abdominal testis, unilateral
+Add:         0 Q5311   Abdominal testis, unilateral                                 Abdominal testis, unilateral
+Add:         1 Q53111  Unilateral intraabdominal testis                             Unilateral intraabdominal testis
+Add:         1 Q53112  Unilateral inguinal testis                                   Unilateral inguinal testis
+Add:         1 Q5313   Unilateral high scrotal testis                               Unilateral high scrotal testis
+Delete:      1 Q5321   Abdominal testis, bilateral                                  Abdominal testis, bilateral
+Add:         0 Q5321   Abdominal testis, bilateral                                  Abdominal testis, bilateral
+Add:         1 Q53211  Bilateral intraabdominal testes                              Bilateral intraabdominal testes
+Add:         1 Q53212  Bilateral inguinal testes                                    Bilateral inguinal testes
+Add:         1 Q5323   Bilateral high scrotal testes                                Bilateral high scrotal testes
+Revise from: 1 Q6412   Cloacal extrophy of urinary bladder                          Cloacal extrophy of urinary bladder
+Revise to:   1 Q6412   Cloacal exstrophy of urinary bladder                         Cloacal exstrophy of urinary bladder
+Revise from: 1 Q822    Mastocytosis                                                 Mastocytosis
+Revise to:   1 Q822    Congenital cutaneous mastocytosis                            Congenital cutaneous mastocytosis
+Add:         1 R0603   Acute respiratory distress                                   Acute respiratory distress
+Add:         1 R3983   Unilateral non-palpable testicle                             Unilateral non-palpable testicle
+Add:         1 R3984   Bilateral non-palpable testicles                             Bilateral non-palpable testicles
+Revise from: 0 S04031  Injury of optic tract and pathways, right eye                Injury of optic tract and pathways, right eye
+Revise to:   0 S04031  Injury of optic tract and pathways, right side               Injury of optic tract and pathways, right side
+Revise from: 1 S04031A Injury of optic tract and pathways, right eye, init encntr   Injury of optic tract and pathways, right eye, initial encounter
+Revise to:   1 S04031A Injury of optic tract and pathways, right side, init         Injury of optic tract and pathways, right side, initial encounter
+Revise from: 1 S04031D Injury of optic tract and pathways, right eye, subs encntr   Injury of optic tract and pathways, right eye, subsequent encounter
+Revise to:   1 S04031D Injury of optic tract and pathways, right side, subs         Injury of optic tract and pathways, right side, subsequent encounter
+Revise from: 1 S04031S Injury of optic tract and pathways, right eye, sequela       Injury of optic tract and pathways, right eye, sequela
+Revise to:   1 S04031S Injury of optic tract and pathways, right side, sequela      Injury of optic tract and pathways, right side, sequela
+Revise from: 0 S04032  Injury of optic tract and pathways, left eye                 Injury of optic tract and pathways, left eye
+Revise to:   0 S04032  Injury of optic tract and pathways, left side                Injury of optic tract and pathways, left side
+Revise from: 1 S04032A Injury of optic tract and pathways, left eye, init encntr    Injury of optic tract and pathways, left eye, initial encounter
+Revise to:   1 S04032A Injury of optic tract and pathways, left side, init          Injury of optic tract and pathways, left side, initial encounter
+Revise from: 1 S04032D Injury of optic tract and pathways, left eye, subs encntr    Injury of optic tract and pathways, left eye, subsequent encounter
+Revise to:   1 S04032D Injury of optic tract and pathways, left side, subs          Injury of optic tract and pathways, left side, subsequent encounter
+Revise from: 1 S04032S Injury of optic tract and pathways, left eye, sequela        Injury of optic tract and pathways, left eye, sequela
+Revise to:   1 S04032S Injury of optic tract and pathways, left side, sequela       Injury of optic tract and pathways, left side, sequela
+Revise from: 0 S04039  Injury of optic tract and pathways, unspecified eye          Injury of optic tract and pathways, unspecified eye
+Revise to:   0 S04039  Injury of optic tract and pathways, unspecified side         Injury of optic tract and pathways, unspecified side
+Revise from: 1 S04039A Injury of optic tract and pathways, unsp eye, init encntr    Injury of optic tract and pathways, unspecified eye, initial encounter
+Revise to:   1 S04039A Injury of optic tract and pathways, unspecified side, init   Injury of optic tract and pathways, unspecified side, initial encounter
+Revise from: 1 S04039D Injury of optic tract and pathways, unsp eye, subs encntr    Injury of optic tract and pathways, unspecified eye, subsequent encounter
+Revise to:   1 S04039D Injury of optic tract and pathways, unspecified side, subs   Injury of optic tract and pathways, unspecified side, subsequent encounter
+Revise from: 1 S04039S Injury of optic tract and pathways, unspecified eye, sequela Injury of optic tract and pathways, unspecified eye, sequela
+Revise to:   1 S04039S Injury of optic tract and pathways, unsp side, sequela       Injury of optic tract and pathways, unspecified side, sequela
+Revise from: 0 S04041  Injury of visual cortex, right eye                           Injury of visual cortex, right eye
+Revise to:   0 S04041  Injury of visual cortex, right side                          Injury of visual cortex, right side
+Revise from: 1 S04041A Injury of visual cortex, right eye, initial encounter        Injury of visual cortex, right eye, initial encounter
+Revise to:   1 S04041A Injury of visual cortex, right side, initial encounter       Injury of visual cortex, right side, initial encounter
+Revise from: 1 S04041D Injury of visual cortex, right eye, subsequent encounter     Injury of visual cortex, right eye, subsequent encounter
+Revise to:   1 S04041D Injury of visual cortex, right side, subsequent encounter    Injury of visual cortex, right side, subsequent encounter
+Revise from: 1 S04041S Injury of visual cortex, right eye, sequela                  Injury of visual cortex, right eye, sequela
+Revise to:   1 S04041S Injury of visual cortex, right side, sequela                 Injury of visual cortex, right side, sequela
+Revise from: 0 S04042  Injury of visual cortex, left eye                            Injury of visual cortex, left eye
+Revise to:   0 S04042  Injury of visual cortex, left side                           Injury of visual cortex, left side
+Revise from: 1 S04042A Injury of visual cortex, left eye, initial encounter         Injury of visual cortex, left eye, initial encounter
+Revise to:   1 S04042A Injury of visual cortex, left side, initial encounter        Injury of visual cortex, left side, initial encounter
+Revise from: 1 S04042D Injury of visual cortex, left eye, subsequent encounter      Injury of visual cortex, left eye, subsequent encounter
+Revise to:   1 S04042D Injury of visual cortex, left side, subsequent encounter     Injury of visual cortex, left side, subsequent encounter
+Revise from: 1 S04042S Injury of visual cortex, left eye, sequela                   Injury of visual cortex, left eye, sequela
+Revise to:   1 S04042S Injury of visual cortex, left side, sequela                  Injury of visual cortex, left side, sequela
+Revise from: 0 S04049  Injury of visual cortex, unspecified eye                     Injury of visual cortex, unspecified eye
+Revise to:   0 S04049  Injury of visual cortex, unspecified side                    Injury of visual cortex, unspecified side
+Revise from: 1 S04049A Injury of visual cortex, unspecified eye, initial encounter  Injury of visual cortex, unspecified eye, initial encounter
+Revise to:   1 S04049A Injury of visual cortex, unspecified side, initial encounter Injury of visual cortex, unspecified side, initial encounter
+Revise from: 1 S04049D Injury of visual cortex, unspecified eye, subs encntr        Injury of visual cortex, unspecified eye, subsequent encounter
+Revise to:   1 S04049D Injury of visual cortex, unspecified side, subs              Injury of visual cortex, unspecified side, subsequent encounter
+Revise from: 1 S04049S Injury of visual cortex, unspecified eye, sequela            Injury of visual cortex, unspecified eye, sequela
+Revise to:   1 S04049S Injury of visual cortex, unspecified side, sequela           Injury of visual cortex, unspecified side, sequela
+Delete:      1 S061X7D Traum cereb edema w LOC w death d/t brain inj bf consc, subs Traumatic cerebral edema with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S061X7S Traum cereb edema w LOC w death d/t brain inj bf consc, sqla Traumatic cerebral edema with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S061X8D Traum cereb edema w LOC w death d/t oth cause bf consc, subs Traumatic cerebral edema with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S061X8S Traum cereb edema w LOC w death d/t oth cause bf consc, sqla Traumatic cerebral edema with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Delete:      1 S062X7D Diffuse TBI w LOC w death due to brain injury bf consc, subs Diffuse traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S062X7S Diffus TBI w LOC w death due to brain injury bf consc, sqla  Diffuse traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S062X8D Diffuse TBI w LOC w death due to oth cause bf consc, subs    Diffuse traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S062X8S Diffuse TBI w LOC w death due to oth cause bf consc, sequela Diffuse traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Delete:      1 S06307D Unsp focal TBI w LOC w death d/t brain injury bf consc, subs Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S06307S Unsp focal TBI w LOC w death d/t brain injury bf consc, sqla Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S06308D Unsp focal TBI w LOC w death due to oth cause bf consc, subs Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S06308S Unsp focal TBI w LOC w death due to oth cause bf consc, sqla Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Delete:      1 S06317D Contus/lac r cereb w LOC w dth d/t brain inj bf consc, subs  Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S06317S Contus/lac r cereb w LOC w dth d/t brain inj bf consc, sqla  Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S06318D Contus/lac r cereb w LOC w dth d/t oth cause bf consc, subs  Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S06318S Contus/lac r cereb w LOC w dth d/t oth cause bf consc, sqla  Contusion and laceration of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Delete:      1 S06327D Contus/lac l cereb w LOC w dth d/t brain inj bf consc, subs  Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S06327S Contus/lac l cereb w LOC w dth d/t brain inj bf consc, sqla  Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S06328D Contus/lac l cereb w LOC w dth d/t oth cause bf consc, subs  Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S06328S Contus/lac l cereb w LOC w dth d/t oth cause bf consc, sqla  Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Delete:      1 S06337D Contus/lac cereb, w LOC w death d/t brain inj bf consc, subs Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S06337S Contus/lac cereb, w LOC w death d/t brain inj bf consc, sqla Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S06338D Contus/lac cereb, w LOC w death d/t oth cause bf consc, subs Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S06338S Contus/lac cereb, w LOC w death d/t oth cause bf consc, sqla Contusion and laceration of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Delete:      1 S06347D Traum hemor r cereb w LOC w dth d/t brain inj bf consc, subs Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S06347S Traum hemor r cereb w LOC w dth d/t brain inj bf consc, sqla Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S06348D Traum hemor r cereb w LOC w dth d/t oth cause bf consc, subs Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S06348S Traum hemor r cereb w LOC w dth d/t oth cause bf consc, sqla Traumatic hemorrhage of right cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Delete:      1 S06357D Traum hemor l cereb w LOC w dth d/t brain inj bf consc, subs Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S06357S Traum hemor l cereb w LOC w dth d/t brain inj bf consc, sqla Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S06358D Traum hemor l cereb w LOC w dth d/t oth cause bf consc, subs Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S06358S Traum hemor l cereb w LOC w dth d/t oth cause bf consc, sqla Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Delete:      1 S06367D Traum hemor cereb, w LOC w dth d/t brain inj bf consc, subs  Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S06367S Traum hemor cereb, w LOC w dth d/t brain inj bf consc, sqla  Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S06368D Traum hemor cereb, w LOC w dth d/t oth cause bf consc, subs  Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S06368S Traum hemor cereb, w LOC w dth d/t oth cause bf consc, sqla  Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Delete:      1 S06377D Contus/lac/hem crblm w LOC w dth d/t brain inj bf consc,subs Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S06377S Contus/lac/hem crblm w LOC w dth d/t brain inj bf consc,sqla Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S06378D Contus/lac/hem crblm w LOC w dth d/t oth cause bf consc,subs Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S06378S Contus/lac/hem crblm w LOC w dth d/t oth cause bf consc,sqla Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Delete:      1 S06387D Contus/lac/hem brnst w LOC w dth d/t brain inj bf consc,subs Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S06387S Contus/lac/hem brnst w LOC w dth d/t brain inj bf consc,sqla Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S06388D Contus/lac/hem brnst w LOC w dth d/t oth cause bf consc,subs Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S06388S Contus/lac/hem brnst w LOC w dth d/t oth cause bf consc,sqla Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Delete:      1 S064X7D Epidur hemor w LOC w death d/t brain injury bf consc, subs   Epidural hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S064X7S Epidur hemor w LOC w death d/t brain injury bf consc, sqla   Epidural hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S064X8D Epidur hemor w LOC w death due to oth causes bf consc, subs  Epidural hemorrhage with loss of consciousness of any duration with death due to other causes prior to regaining consciousness, subsequent encounter
+Delete:      1 S064X8S Epidur hemor w LOC w death due to oth causes bf consc, sqla  Epidural hemorrhage with loss of consciousness of any duration with death due to other causes prior to regaining consciousness, sequela
+Delete:      1 S065X7D Traum subdr hem w LOC w dth d/t brain inj bef reg consc,subs Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to brain injury before regaining consciousness, subsequent encounter
+Delete:      1 S065X7S Traum subdr hem w LOC w dth d/t brain inj bef reg consc,sqla Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to brain injury before regaining consciousness, sequela
+Delete:      1 S065X8D Traum subdr hem w LOC w dth d/t oth cause bef reg consc,subs Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to other cause before regaining consciousness, subsequent encounter
+Delete:      1 S065X8S Traum subdr hem w LOC w dth d/t oth cause bef reg consc,sqla Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to other cause before regaining consciousness, sequela
+Delete:      1 S066X7D Traum subrac hem w LOC w death d/t brain inj bf consc, subs  Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S066X7S Traum subrac hem w LOC w death d/t brain inj bf consc, sqla  Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S066X8D Traum subrac hem w LOC w death d/t oth cause bf consc, subs  Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S066X8S Traum subrac hem w LOC w death d/t oth cause bf consc, sqla  Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Delete:      1 S06817D Inj r int crtd,intcr w LOC w dth d/t brain inj bf consc,subs Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S06817S Inj r int crtd,intcr w LOC w dth d/t brain inj bf consc,sqla Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S06818D Inj r int crtd,intcr w LOC w dth d/t oth cause bf consc,subs Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S06818S Inj r int crtd,intcr w LOC w dth d/t oth cause bf consc,sqla Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Delete:      1 S06827D Inj l int crtd,intcr w LOC w dth d/t brain inj bf consc,subs Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S06827S Inj l int crtd,intcr w LOC w dth d/t brain inj bf consc,sqla Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S06828D Inj l int crtd,intcr w LOC w dth d/t oth cause bf consc,subs Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S06828S Inj l int crtd,intcr w LOC w dth d/t oth cause bf consc,sqla Injury of left internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Delete:      1 S06897D Intcran inj w LOC w death due to brain injury bf consc, subs Other specified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S06897S Intcran inj w LOC w death due to brain injury bf consc, sqla Other specified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S06898D Intcran inj w LOC w death due to oth cause bf consc, subs    Other specified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S06898S Intcran inj w LOC w death due to oth cause bf consc, sequela Other specified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Delete:      1 S069X7D Unsp intcrn inj w LOC w death d/t brain inj bf consc, subs   Unspecified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter
+Delete:      1 S069X7S Unsp intcrn inj w LOC w death d/t brain inj bf consc, sqla   Unspecified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela
+Delete:      1 S069X8D Unsp intcrn inj w LOC w death d/t oth cause bf consc, subs   Unspecified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, subsequent encounter
+Delete:      1 S069X8S Unsp intcrn inj w LOC w death d/t oth cause bf consc, sqla   Unspecified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela
+Revise from: 0 S62311  Disp fx of base of second metacarpal bone. left hand         Displaced fracture of base of second metacarpal bone. left hand
+Revise to:   0 S62311  Disp fx of base of second metacarpal bone, left hand         Displaced fracture of base of second metacarpal bone, left hand
+Revise from: 1 S62311A Disp fx of base of second metacarpal bone. left hand, init   Displaced fracture of base of second metacarpal bone. left hand, initial encounter for closed fracture
+Revise to:   1 S62311A Disp fx of base of second metacarpal bone, left hand, init   Displaced fracture of base of second metacarpal bone, left hand, initial encounter for closed fracture
+Revise from: 1 S62311B Disp fx of base of second MC bone. l hand, init for opn fx   Displaced fracture of base of second metacarpal bone. left hand, initial encounter for open fracture
+Revise to:   1 S62311B Disp fx of base of second metacarpal bone, left hand, 7thB   Displaced fracture of base of second metacarpal bone, left hand, initial encounter for open fracture
+Revise from: 1 S62311D Disp fx of base of 2nd MC bone. l hand, 7thD                 Displaced fracture of base of second metacarpal bone. left hand, subsequent encounter for fracture with routine healing
+Revise to:   1 S62311D Disp fx of base of second metacarpal bone, left hand, 7thD   Displaced fracture of base of second metacarpal bone, left hand, subsequent encounter for fracture with routine healing
+Revise from: 1 S62311G Disp fx of base of 2nd MC bone. l hand, 7thG                 Displaced fracture of base of second metacarpal bone. left hand, subsequent encounter for fracture with delayed healing
+Revise to:   1 S62311G Disp fx of base of second metacarpal bone, left hand, 7thG   Displaced fracture of base of second metacarpal bone, left hand, subsequent encounter for fracture with delayed healing
+Revise from: 1 S62311K Disp fx of base of 2nd MC bone. l hand, 7thK                 Displaced fracture of base of second metacarpal bone. left hand, subsequent encounter for fracture with nonunion
+Revise to:   1 S62311K Disp fx of base of second metacarpal bone, left hand, 7thK   Displaced fracture of base of second metacarpal bone, left hand, subsequent encounter for fracture with nonunion
+Revise from: 1 S62311P Disp fx of base of 2nd MC bone. l hand, 7thP                 Displaced fracture of base of second metacarpal bone. left hand, subsequent encounter for fracture with malunion
+Revise to:   1 S62311P Disp fx of base of second metacarpal bone, left hand, 7thP   Displaced fracture of base of second metacarpal bone, left hand, subsequent encounter for fracture with malunion
+Revise from: 1 S62311S Disp fx of base of second MC bone. left hand, sequela        Displaced fracture of base of second metacarpal bone. left hand, sequela
+Revise to:   1 S62311S Disp fx of base of second MC bone, left hand, sequela        Displaced fracture of base of second metacarpal bone, left hand, sequela
+Revise from: 0 S62317  Disp fx of base of fifth metacarpal bone. left hand          Displaced fracture of base of fifth metacarpal bone. left hand
+Revise to:   0 S62317  Disp fx of base of fifth metacarpal bone, left hand          Displaced fracture of base of fifth metacarpal bone, left hand
+Revise from: 1 S62317A Disp fx of base of fifth metacarpal bone. left hand, init    Displaced fracture of base of fifth metacarpal bone. left hand, initial encounter for closed fracture
+Revise to:   1 S62317A Disp fx of base of fifth metacarpal bone, left hand, init    Displaced fracture of base of fifth metacarpal bone, left hand, initial encounter for closed fracture
+Revise from: 1 S62317B Disp fx of base of fifth MC bone. left hand, init for opn fx Displaced fracture of base of fifth metacarpal bone. left hand, initial encounter for open fracture
+Revise to:   1 S62317B Disp fx of base of fifth metacarpal bone, left hand, 7thB    Displaced fracture of base of fifth metacarpal bone, left hand, initial encounter for open fracture
+Revise from: 1 S62317D Disp fx of base of 5th MC bone. l hand, 7thD                 Displaced fracture of base of fifth metacarpal bone. left hand, subsequent encounter for fracture with routine healing
+Revise to:   1 S62317D Disp fx of base of fifth metacarpal bone, left hand, 7thD    Displaced fracture of base of fifth metacarpal bone, left hand, subsequent encounter for fracture with routine healing
+Revise from: 1 S62317G Disp fx of base of 5th MC bone. l hand, 7thG                 Displaced fracture of base of fifth metacarpal bone. left hand, subsequent encounter for fracture with delayed healing
+Revise to:   1 S62317G Disp fx of base of fifth metacarpal bone, left hand, 7thG    Displaced fracture of base of fifth metacarpal bone, left hand, subsequent encounter for fracture with delayed healing
+Revise from: 1 S62317K Disp fx of base of 5th MC bone. l hand, 7thK                 Displaced fracture of base of fifth metacarpal bone. left hand, subsequent encounter for fracture with nonunion
+Revise to:   1 S62317K Disp fx of base of fifth metacarpal bone, left hand, 7thK    Displaced fracture of base of fifth metacarpal bone, left hand, subsequent encounter for fracture with nonunion
+Revise from: 1 S62317P Disp fx of base of 5th MC bone. l hand, 7thP                 Displaced fracture of base of fifth metacarpal bone. left hand, subsequent encounter for fracture with malunion
+Revise to:   1 S62317P Disp fx of base of fifth metacarpal bone, left hand, 7thP    Displaced fracture of base of fifth metacarpal bone, left hand, subsequent encounter for fracture with malunion
+Revise from: 1 S62317S Disp fx of base of fifth metacarpal bone. left hand, sequela Displaced fracture of base of fifth metacarpal bone. left hand, sequela
+Revise to:   1 S62317S Disp fx of base of fifth metacarpal bone, left hand, sequela Displaced fracture of base of fifth metacarpal bone, left hand, sequela
+Revise from: 0 S62341  Nondisp fx of base of second metacarpal bone. left hand      Nondisplaced fracture of base of second metacarpal bone. left hand
+Revise to:   0 S62341  Nondisp fx of base of second metacarpal bone, left hand      Nondisplaced fracture of base of second metacarpal bone, left hand
+Revise from: 1 S62341A Nondisp fx of base of second MC bone. left hand, init        Nondisplaced fracture of base of second metacarpal bone. left hand, initial encounter for closed fracture
+Revise to:   1 S62341A Nondisp fx of base of second MC bone, left hand, init        Nondisplaced fracture of base of second metacarpal bone, left hand, initial encounter for closed fracture
+Revise from: 1 S62341B Nondisp fx of base of 2nd MC bone. l hand, init for opn fx   Nondisplaced fracture of base of second metacarpal bone. left hand, initial encounter for open fracture
+Revise to:   1 S62341B Nondisp fx of base of second MC bone, left hand, 7thB        Nondisplaced fracture of base of second metacarpal bone, left hand, initial encounter for open fracture
+Revise from: 1 S62341D Nondisp fx of base of 2nd MC bone. l hand, 7thD              Nondisplaced fracture of base of second metacarpal bone. left hand, subsequent encounter for fracture with routine healing
+Revise to:   1 S62341D Nondisp fx of base of second MC bone, left hand, 7thD        Nondisplaced fracture of base of second metacarpal bone, left hand, subsequent encounter for fracture with routine healing
+Revise from: 1 S62341G Nondisp fx of base of 2nd MC bone. l hand, 7thG              Nondisplaced fracture of base of second metacarpal bone. left hand, subsequent encounter for fracture with delayed healing
+Revise to:   1 S62341G Nondisp fx of base of second MC bone, left hand, 7thG        Nondisplaced fracture of base of second metacarpal bone, left hand, subsequent encounter for fracture with delayed healing
+Revise from: 1 S62341K Nondisp fx of base of 2nd MC bone. l hand, 7thK              Nondisplaced fracture of base of second metacarpal bone. left hand, subsequent encounter for fracture with nonunion
+Revise to:   1 S62341K Nondisp fx of base of second MC bone, left hand, 7thK        Nondisplaced fracture of base of second metacarpal bone, left hand, subsequent encounter for fracture with nonunion
+Revise from: 1 S62341P Nondisp fx of base of 2nd MC bone. l hand, 7thP              Nondisplaced fracture of base of second metacarpal bone. left hand, subsequent encounter for fracture with malunion
+Revise to:   1 S62341P Nondisp fx of base of second MC bone, left hand, 7thP        Nondisplaced fracture of base of second metacarpal bone, left hand, subsequent encounter for fracture with malunion
+Revise from: 1 S62341S Nondisp fx of base of second MC bone. left hand, sequela     Nondisplaced fracture of base of second metacarpal bone. left hand, sequela
+Revise to:   1 S62341S Nondisp fx of base of second MC bone, left hand, sequela     Nondisplaced fracture of base of second metacarpal bone, left hand, sequela
+Revise from: 0 S62347  Nondisp fx of base of fifth metacarpal bone. left hand       Nondisplaced fracture of base of fifth metacarpal bone. left hand
+Revise to:   0 S62347  Nondisp fx of base of fifth metacarpal bone, left hand       Nondisplaced fracture of base of fifth metacarpal bone, left hand
+Revise from: 1 S62347A Nondisp fx of base of fifth metacarpal bone. left hand, init Nondisplaced fracture of base of fifth metacarpal bone. left hand, initial encounter for closed fracture
+Revise to:   1 S62347A Nondisp fx of base of fifth metacarpal bone, left hand, init Nondisplaced fracture of base of fifth metacarpal bone, left hand, initial encounter for closed fracture
+Revise from: 1 S62347B Nondisp fx of base of fifth MC bone. l hand, init for opn fx Nondisplaced fracture of base of fifth metacarpal bone. left hand, initial encounter for open fracture
+Revise to:   1 S62347B Nondisp fx of base of fifth metacarpal bone, left hand, 7thB Nondisplaced fracture of base of fifth metacarpal bone, left hand, initial encounter for open fracture
+Revise from: 1 S62347D Nondisp fx of base of 5th MC bone. l hand, 7thD              Nondisplaced fracture of base of fifth metacarpal bone. left hand, subsequent encounter for fracture with routine healing
+Revise to:   1 S62347D Nondisp fx of base of fifth metacarpal bone, left hand, 7thD Nondisplaced fracture of base of fifth metacarpal bone, left hand, subsequent encounter for fracture with routine healing
+Revise from: 1 S62347G Nondisp fx of base of 5th MC bone. l hand, 7thG              Nondisplaced fracture of base of fifth metacarpal bone. left hand, subsequent encounter for fracture with delayed healing
+Revise to:   1 S62347G Nondisp fx of base of fifth metacarpal bone, left hand, 7thG Nondisplaced fracture of base of fifth metacarpal bone, left hand, subsequent encounter for fracture with delayed healing
+Revise from: 1 S62347K Nondisp fx of base of 5th MC bone. l hand, 7thK              Nondisplaced fracture of base of fifth metacarpal bone. left hand, subsequent encounter for fracture with nonunion
+Revise to:   1 S62347K Nondisp fx of base of fifth metacarpal bone, left hand, 7thK Nondisplaced fracture of base of fifth metacarpal bone, left hand, subsequent encounter for fracture with nonunion
+Revise from: 1 S62347P Nondisp fx of base of 5th MC bone. l hand, 7thP              Nondisplaced fracture of base of fifth metacarpal bone. left hand, subsequent encounter for fracture with malunion
+Revise to:   1 S62347P Nondisp fx of base of fifth metacarpal bone, left hand, 7thP Nondisplaced fracture of base of fifth metacarpal bone, left hand, subsequent encounter for fracture with malunion
+Revise from: 1 S62347S Nondisp fx of base of fifth MC bone. left hand, sequela      Nondisplaced fracture of base of fifth metacarpal bone. left hand, sequela
+Revise to:   1 S62347S Nondisp fx of base of fifth MC bone, left hand, sequela      Nondisplaced fracture of base of fifth metacarpal bone, left hand, sequela
+Revise from: 0 S6262   Displaced fracture of medial phalanx of finger               Displaced fracture of medial phalanx of finger
+Revise to:   0 S6262   Displaced fracture of middle phalanx of finger               Displaced fracture of middle phalanx of finger
+Revise from: 0 S62620  Displaced fracture of medial phalanx of right index finger   Displaced fracture of medial phalanx of right index finger
+Revise to:   0 S62620  Displaced fracture of middle phalanx of right index finger   Displaced fracture of middle phalanx of right index finger
+Revise from: 1 S62620A Disp fx of medial phalanx of right index finger, init        Displaced fracture of medial phalanx of right index finger, initial encounter for closed fracture
+Revise to:   1 S62620A Disp fx of middle phalanx of right index finger, init        Displaced fracture of middle phalanx of right index finger, initial encounter for closed fracture
+Revise from: 1 S62620B Disp fx of medial phalanx of r idx fngr, init for opn fx     Displaced fracture of medial phalanx of right index finger, initial encounter for open fracture
+Revise to:   1 S62620B Disp fx of middle phalanx of right index finger, 7thB        Displaced fracture of middle phalanx of right index finger, initial encounter for open fracture
+Revise from: 1 S62620D Disp fx of med phalanx of r idx fngr, 7thD                   Displaced fracture of medial phalanx of right index finger, subsequent encounter for fracture with routine healing
+Revise to:   1 S62620D Disp fx of middle phalanx of right index finger, 7thD        Displaced fracture of middle phalanx of right index finger, subsequent encounter for fracture with routine healing
+Revise from: 1 S62620G Disp fx of med phalanx of r idx fngr, 7thG                   Displaced fracture of medial phalanx of right index finger, subsequent encounter for fracture with delayed healing
+Revise to:   1 S62620G Disp fx of middle phalanx of right index finger, 7thG        Displaced fracture of middle phalanx of right index finger, subsequent encounter for fracture with delayed healing
+Revise from: 1 S62620K Disp fx of med phalanx of r idx fngr, subs for fx w nonunion Displaced fracture of medial phalanx of right index finger, subsequent encounter for fracture with nonunion
+Revise to:   1 S62620K Disp fx of middle phalanx of right index finger, 7thK        Displaced fracture of middle phalanx of right index finger, subsequent encounter for fracture with nonunion
+Revise from: 1 S62620P Disp fx of med phalanx of r idx fngr, subs for fx w malunion Displaced fracture of medial phalanx of right index finger, subsequent encounter for fracture with malunion
+Revise to:   1 S62620P Disp fx of middle phalanx of right index finger, 7thP        Displaced fracture of middle phalanx of right index finger, subsequent encounter for fracture with malunion
+Revise from: 1 S62620S Disp fx of medial phalanx of right index finger, sequela     Displaced fracture of medial phalanx of right index finger, sequela
+Revise to:   1 S62620S Disp fx of middle phalanx of right index finger, sequela     Displaced fracture of middle phalanx of right index finger, sequela
+Revise from: 0 S62621  Displaced fracture of medial phalanx of left index finger    Displaced fracture of medial phalanx of left index finger
+Revise to:   0 S62621  Displaced fracture of middle phalanx of left index finger    Displaced fracture of middle phalanx of left index finger
+Revise from: 1 S62621A Disp fx of medial phalanx of left index finger, init         Displaced fracture of medial phalanx of left index finger, initial encounter for closed fracture
+Revise to:   1 S62621A Disp fx of middle phalanx of left index finger, init         Displaced fracture of middle phalanx of left index finger, initial encounter for closed fracture
+Revise from: 1 S62621B Disp fx of medial phalanx of l idx fngr, init for opn fx     Displaced fracture of medial phalanx of left index finger, initial encounter for open fracture
+Revise to:   1 S62621B Disp fx of middle phalanx of left index finger, 7thB         Displaced fracture of middle phalanx of left index finger, initial encounter for open fracture
+Revise from: 1 S62621D Disp fx of med phalanx of l idx fngr, 7thD                   Displaced fracture of medial phalanx of left index finger, subsequent encounter for fracture with routine healing
+Revise to:   1 S62621D Disp fx of middle phalanx of left index finger, 7thD         Displaced fracture of middle phalanx of left index finger, subsequent encounter for fracture with routine healing
+Revise from: 1 S62621G Disp fx of med phalanx of l idx fngr, 7thG                   Displaced fracture of medial phalanx of left index finger, subsequent encounter for fracture with delayed healing
+Revise to:   1 S62621G Disp fx of middle phalanx of left index finger, 7thG         Displaced fracture of middle phalanx of left index finger, subsequent encounter for fracture with delayed healing
+Revise from: 1 S62621K Disp fx of med phalanx of l idx fngr, subs for fx w nonunion Displaced fracture of medial phalanx of left index finger, subsequent encounter for fracture with nonunion
+Revise to:   1 S62621K Disp fx of middle phalanx of left index finger, 7thK         Displaced fracture of middle phalanx of left index finger, subsequent encounter for fracture with nonunion
+Revise from: 1 S62621P Disp fx of med phalanx of l idx fngr, subs for fx w malunion Displaced fracture of medial phalanx of left index finger, subsequent encounter for fracture with malunion
+Revise to:   1 S62621P Disp fx of middle phalanx of left index finger, 7thP         Displaced fracture of middle phalanx of left index finger, subsequent encounter for fracture with malunion
+Revise from: 1 S62621S Disp fx of medial phalanx of left index finger, sequela      Displaced fracture of medial phalanx of left index finger, sequela
+Revise to:   1 S62621S Disp fx of middle phalanx of left index finger, sequela      Displaced fracture of middle phalanx of left index finger, sequela
+Revise from: 0 S62622  Displaced fracture of medial phalanx of right middle finger  Displaced fracture of medial phalanx of right middle finger
+Revise to:   0 S62622  Displaced fracture of middle phalanx of right middle finger  Displaced fracture of middle phalanx of right middle finger
+Revise from: 1 S62622A Disp fx of medial phalanx of right middle finger, init       Displaced fracture of medial phalanx of right middle finger, initial encounter for closed fracture
+Revise to:   1 S62622A Displaced fracture of middle phalanx of r mid finger, init   Displaced fracture of middle phalanx of right middle finger, initial encounter for closed fracture
+Revise from: 1 S62622B Disp fx of medial phalanx of r mid finger, init for opn fx   Displaced fracture of medial phalanx of right middle finger, initial encounter for open fracture
+Revise to:   1 S62622B Displaced fracture of middle phalanx of r mid finger, 7thB   Displaced fracture of middle phalanx of right middle finger, initial encounter for open fracture
+Revise from: 1 S62622D Disp fx of med phalanx of r mid fngr, 7thD                   Displaced fracture of medial phalanx of right middle finger, subsequent encounter for fracture with routine healing
+Revise to:   1 S62622D Displaced fracture of middle phalanx of r mid finger, 7thD   Displaced fracture of middle phalanx of right middle finger, subsequent encounter for fracture with routine healing
+Revise from: 1 S62622G Disp fx of med phalanx of r mid fngr, 7thG                   Displaced fracture of medial phalanx of right middle finger, subsequent encounter for fracture with delayed healing
+Revise to:   1 S62622G Displaced fracture of middle phalanx of r mid finger, 7thG   Displaced fracture of middle phalanx of right middle finger, subsequent encounter for fracture with delayed healing
+Revise from: 1 S62622K Disp fx of med phalanx of r mid fngr, subs for fx w nonunion Displaced fracture of medial phalanx of right middle finger, subsequent encounter for fracture with nonunion
+Revise to:   1 S62622K Displaced fracture of middle phalanx of r mid finger, 7thK   Displaced fracture of middle phalanx of right middle finger, subsequent encounter for fracture with nonunion
+Revise from: 1 S62622P Disp fx of med phalanx of r mid fngr, subs for fx w malunion Displaced fracture of medial phalanx of right middle finger, subsequent encounter for fracture with malunion
+Revise to:   1 S62622P Displaced fracture of middle phalanx of r mid finger, 7thP   Displaced fracture of middle phalanx of right middle finger, subsequent encounter for fracture with malunion
+Revise from: 1 S62622S Disp fx of medial phalanx of right middle finger, sequela    Displaced fracture of medial phalanx of right middle finger, sequela
+Revise to:   1 S62622S Disp fx of middle phalanx of r mid finger, sequela           Displaced fracture of middle phalanx of right middle finger, sequela
+Revise from: 0 S62623  Displaced fracture of medial phalanx of left middle finger   Displaced fracture of medial phalanx of left middle finger
+Revise to:   0 S62623  Displaced fracture of middle phalanx of left middle finger   Displaced fracture of middle phalanx of left middle finger
+Revise from: 1 S62623A Disp fx of medial phalanx of left middle finger, init        Displaced fracture of medial phalanx of left middle finger, initial encounter for closed fracture
+Revise to:   1 S62623A Disp fx of middle phalanx of left middle finger, init        Displaced fracture of middle phalanx of left middle finger, initial encounter for closed fracture
+Revise from: 1 S62623B Disp fx of medial phalanx of l mid finger, init for opn fx   Displaced fracture of medial phalanx of left middle finger, initial encounter for open fracture
+Revise to:   1 S62623B Disp fx of middle phalanx of left middle finger, 7thB        Displaced fracture of middle phalanx of left middle finger, initial encounter for open fracture
+Revise from: 1 S62623D Disp fx of med phalanx of l mid fngr, 7thD                   Displaced fracture of medial phalanx of left middle finger, subsequent encounter for fracture with routine healing
+Revise to:   1 S62623D Disp fx of middle phalanx of left middle finger, 7thD        Displaced fracture of middle phalanx of left middle finger, subsequent encounter for fracture with routine healing
+Revise from: 1 S62623G Disp fx of med phalanx of l mid fngr, 7thG                   Displaced fracture of medial phalanx of left middle finger, subsequent encounter for fracture with delayed healing
+Revise to:   1 S62623G Disp fx of middle phalanx of left middle finger, 7thG        Displaced fracture of middle phalanx of left middle finger, subsequent encounter for fracture with delayed healing
+Revise from: 1 S62623K Disp fx of med phalanx of l mid fngr, subs for fx w nonunion Displaced fracture of medial phalanx of left middle finger, subsequent encounter for fracture with nonunion
+Revise to:   1 S62623K Disp fx of middle phalanx of left middle finger, 7thK        Displaced fracture of middle phalanx of left middle finger, subsequent encounter for fracture with nonunion
+Revise from: 1 S62623P Disp fx of med phalanx of l mid fngr, subs for fx w malunion Displaced fracture of medial phalanx of left middle finger, subsequent encounter for fracture with malunion
+Revise to:   1 S62623P Disp fx of middle phalanx of left middle finger, 7thP        Displaced fracture of middle phalanx of left middle finger, subsequent encounter for fracture with malunion
+Revise from: 1 S62623S Disp fx of medial phalanx of left middle finger, sequela     Displaced fracture of medial phalanx of left middle finger, sequela
+Revise to:   1 S62623S Disp fx of middle phalanx of left middle finger, sequela     Displaced fracture of middle phalanx of left middle finger, sequela
+Revise from: 0 S62624  Displaced fracture of medial phalanx of right ring finger    Displaced fracture of medial phalanx of right ring finger
+Revise to:   0 S62624  Displaced fracture of middle phalanx of right ring finger    Displaced fracture of middle phalanx of right ring finger
+Revise from: 1 S62624A Disp fx of medial phalanx of right ring finger, init         Displaced fracture of medial phalanx of right ring finger, initial encounter for closed fracture
+Revise to:   1 S62624A Disp fx of middle phalanx of right ring finger, init         Displaced fracture of middle phalanx of right ring finger, initial encounter for closed fracture
+Revise from: 1 S62624B Disp fx of medial phalanx of r rng fngr, init for opn fx     Displaced fracture of medial phalanx of right ring finger, initial encounter for open fracture
+Revise to:   1 S62624B Disp fx of middle phalanx of right ring finger, 7thB         Displaced fracture of middle phalanx of right ring finger, initial encounter for open fracture
+Revise from: 1 S62624D Disp fx of med phalanx of r rng fngr, 7thD                   Displaced fracture of medial phalanx of right ring finger, subsequent encounter for fracture with routine healing
+Revise to:   1 S62624D Disp fx of middle phalanx of right ring finger, 7thD         Displaced fracture of middle phalanx of right ring finger, subsequent encounter for fracture with routine healing
+Revise from: 1 S62624G Disp fx of med phalanx of r rng fngr, 7thG                   Displaced fracture of medial phalanx of right ring finger, subsequent encounter for fracture with delayed healing
+Revise to:   1 S62624G Disp fx of middle phalanx of right ring finger, 7thG         Displaced fracture of middle phalanx of right ring finger, subsequent encounter for fracture with delayed healing
+Revise from: 1 S62624K Disp fx of med phalanx of r rng fngr, subs for fx w nonunion Displaced fracture of medial phalanx of right ring finger, subsequent encounter for fracture with nonunion
+Revise to:   1 S62624K Disp fx of middle phalanx of right ring finger, 7thK         Displaced fracture of middle phalanx of right ring finger, subsequent encounter for fracture with nonunion
+Revise from: 1 S62624P Disp fx of med phalanx of r rng fngr, subs for fx w malunion Displaced fracture of medial phalanx of right ring finger, subsequent encounter for fracture with malunion
+Revise to:   1 S62624P Disp fx of middle phalanx of right ring finger, 7thP         Displaced fracture of middle phalanx of right ring finger, subsequent encounter for fracture with malunion
+Revise from: 1 S62624S Disp fx of medial phalanx of right ring finger, sequela      Displaced fracture of medial phalanx of right ring finger, sequela
+Revise to:   1 S62624S Disp fx of middle phalanx of right ring finger, sequela      Displaced fracture of middle phalanx of right ring finger, sequela
+Revise from: 0 S62625  Displaced fracture of medial phalanx of left ring finger     Displaced fracture of medial phalanx of left ring finger
+Revise to:   0 S62625  Displaced fracture of middle phalanx of left ring finger     Displaced fracture of middle phalanx of left ring finger
+Revise from: 1 S62625A Disp fx of medial phalanx of left ring finger, init          Displaced fracture of medial phalanx of left ring finger, initial encounter for closed fracture
+Revise to:   1 S62625A Disp fx of middle phalanx of left ring finger, init          Displaced fracture of middle phalanx of left ring finger, initial encounter for closed fracture
+Revise from: 1 S62625B Disp fx of medial phalanx of l rng fngr, init for opn fx     Displaced fracture of medial phalanx of left ring finger, initial encounter for open fracture
+Revise to:   1 S62625B Disp fx of middle phalanx of left ring finger, 7thB          Displaced fracture of middle phalanx of left ring finger, initial encounter for open fracture
+Revise from: 1 S62625D Disp fx of med phalanx of l rng fngr, 7thD                   Displaced fracture of medial phalanx of left ring finger, subsequent encounter for fracture with routine healing
+Revise to:   1 S62625D Disp fx of middle phalanx of left ring finger, 7thD          Displaced fracture of middle phalanx of left ring finger, subsequent encounter for fracture with routine healing
+Revise from: 1 S62625G Disp fx of med phalanx of l rng fngr, 7thG                   Displaced fracture of medial phalanx of left ring finger, subsequent encounter for fracture with delayed healing
+Revise to:   1 S62625G Disp fx of middle phalanx of left ring finger, 7thG          Displaced fracture of middle phalanx of left ring finger, subsequent encounter for fracture with delayed healing
+Revise from: 1 S62625K Disp fx of med phalanx of l rng fngr, subs for fx w nonunion Displaced fracture of medial phalanx of left ring finger, subsequent encounter for fracture with nonunion
+Revise to:   1 S62625K Disp fx of middle phalanx of left ring finger, 7thK          Displaced fracture of middle phalanx of left ring finger, subsequent encounter for fracture with nonunion
+Revise from: 1 S62625P Disp fx of med phalanx of l rng fngr, subs for fx w malunion Displaced fracture of medial phalanx of left ring finger, subsequent encounter for fracture with malunion
+Revise to:   1 S62625P Disp fx of middle phalanx of left ring finger, 7thP          Displaced fracture of middle phalanx of left ring finger, subsequent encounter for fracture with malunion
+Revise from: 1 S62625S Disp fx of medial phalanx of left ring finger, sequela       Displaced fracture of medial phalanx of left ring finger, sequela
+Revise to:   1 S62625S Disp fx of middle phalanx of left ring finger, sequela       Displaced fracture of middle phalanx of left ring finger, sequela
+Revise from: 0 S6265   Nondisplaced fracture of medial phalanx of finger            Nondisplaced fracture of medial phalanx of finger
+Revise to:   0 S6265   Nondisplaced fracture of middle phalanx of finger            Nondisplaced fracture of middle phalanx of finger
+Revise from: 0 S62650  Nondisp fx of medial phalanx of right index finger           Nondisplaced fracture of medial phalanx of right index finger
+Revise to:   0 S62650  Nondisp fx of middle phalanx of right index finger           Nondisplaced fracture of middle phalanx of right index finger
+Revise from: 1 S62650A Nondisp fx of medial phalanx of right index finger, init     Nondisplaced fracture of medial phalanx of right index finger, initial encounter for closed fracture
+Revise to:   1 S62650A Nondisp fx of middle phalanx of right index finger, init     Nondisplaced fracture of middle phalanx of right index finger, initial encounter for closed fracture
+Revise from: 1 S62650B Nondisp fx of medial phalanx of r idx fngr, init for opn fx  Nondisplaced fracture of medial phalanx of right index finger, initial encounter for open fracture
+Revise to:   1 S62650B Nondisp fx of middle phalanx of right index finger, 7thB     Nondisplaced fracture of middle phalanx of right index finger, initial encounter for open fracture
+Revise from: 1 S62650D Nondisp fx of med phalanx of r idx fngr, 7thD                Nondisplaced fracture of medial phalanx of right index finger, subsequent encounter for fracture with routine healing
+Revise to:   1 S62650D Nondisp fx of middle phalanx of right index finger, 7thD     Nondisplaced fracture of middle phalanx of right index finger, subsequent encounter for fracture with routine healing
+Revise from: 1 S62650G Nondisp fx of med phalanx of r idx fngr, 7thG                Nondisplaced fracture of medial phalanx of right index finger, subsequent encounter for fracture with delayed healing
+Revise to:   1 S62650G Nondisp fx of middle phalanx of right index finger, 7thG     Nondisplaced fracture of middle phalanx of right index finger, subsequent encounter for fracture with delayed healing
+Revise from: 1 S62650K Nondisp fx of med phalanx of r idx fngr, 7thK                Nondisplaced fracture of medial phalanx of right index finger, subsequent encounter for fracture with nonunion
+Revise to:   1 S62650K Nondisp fx of middle phalanx of right index finger, 7thK     Nondisplaced fracture of middle phalanx of right index finger, subsequent encounter for fracture with nonunion
+Revise from: 1 S62650P Nondisp fx of med phalanx of r idx fngr, 7thP                Nondisplaced fracture of medial phalanx of right index finger, subsequent encounter for fracture with malunion
+Revise to:   1 S62650P Nondisp fx of middle phalanx of right index finger, 7thP     Nondisplaced fracture of middle phalanx of right index finger, subsequent encounter for fracture with malunion
+Revise from: 1 S62650S Nondisp fx of medial phalanx of right index finger, sequela  Nondisplaced fracture of medial phalanx of right index finger, sequela
+Revise to:   1 S62650S Nondisp fx of middle phalanx of right index finger, sequela  Nondisplaced fracture of middle phalanx of right index finger, sequela
+Revise from: 0 S62651  Nondisplaced fracture of medial phalanx of left index finger Nondisplaced fracture of medial phalanx of left index finger
+Revise to:   0 S62651  Nondisplaced fracture of middle phalanx of left index finger Nondisplaced fracture of middle phalanx of left index finger
+Revise from: 1 S62651A Nondisp fx of medial phalanx of left index finger, init      Nondisplaced fracture of medial phalanx of left index finger, initial encounter for closed fracture
+Revise to:   1 S62651A Nondisp fx of middle phalanx of left index finger, init      Nondisplaced fracture of middle phalanx of left index finger, initial encounter for closed fracture
+Revise from: 1 S62651B Nondisp fx of medial phalanx of l idx fngr, init for opn fx  Nondisplaced fracture of medial phalanx of left index finger, initial encounter for open fracture
+Revise to:   1 S62651B Nondisp fx of middle phalanx of left index finger, 7thB      Nondisplaced fracture of middle phalanx of left index finger, initial encounter for open fracture
+Revise from: 1 S62651D Nondisp fx of med phalanx of l idx fngr, 7thD                Nondisplaced fracture of medial phalanx of left index finger, subsequent encounter for fracture with routine healing
+Revise to:   1 S62651D Nondisp fx of middle phalanx of left index finger, 7thD      Nondisplaced fracture of middle phalanx of left index finger, subsequent encounter for fracture with routine healing
+Revise from: 1 S62651G Nondisp fx of med phalanx of l idx fngr, 7thG                Nondisplaced fracture of medial phalanx of left index finger, subsequent encounter for fracture with delayed healing
+Revise to:   1 S62651G Nondisp fx of middle phalanx of left index finger, 7thG      Nondisplaced fracture of middle phalanx of left index finger, subsequent encounter for fracture with delayed healing
+Revise from: 1 S62651K Nondisp fx of med phalanx of l idx fngr, 7thK                Nondisplaced fracture of medial phalanx of left index finger, subsequent encounter for fracture with nonunion
+Revise to:   1 S62651K Nondisp fx of middle phalanx of left index finger, 7thK      Nondisplaced fracture of middle phalanx of left index finger, subsequent encounter for fracture with nonunion
+Revise from: 1 S62651P Nondisp fx of med phalanx of l idx fngr, 7thP                Nondisplaced fracture of medial phalanx of left index finger, subsequent encounter for fracture with malunion
+Revise to:   1 S62651P Nondisp fx of middle phalanx of left index finger, 7thP      Nondisplaced fracture of middle phalanx of left index finger, subsequent encounter for fracture with malunion
+Revise from: 1 S62651S Nondisp fx of medial phalanx of left index finger, sequela   Nondisplaced fracture of medial phalanx of left index finger, sequela
+Revise to:   1 S62651S Nondisp fx of middle phalanx of left index finger, sequela   Nondisplaced fracture of middle phalanx of left index finger, sequela
+Revise from: 0 S62652  Nondisp fx of medial phalanx of right middle finger          Nondisplaced fracture of medial phalanx of right middle finger
+Revise to:   0 S62652  Nondisp fx of middle phalanx of right middle finger          Nondisplaced fracture of middle phalanx of right middle finger
+Revise from: 1 S62652A Nondisp fx of medial phalanx of right middle finger, init    Nondisplaced fracture of medial phalanx of right middle finger, initial encounter for closed fracture
+Revise to:   1 S62652A Nondisp fx of middle phalanx of right middle finger, init    Nondisplaced fracture of middle phalanx of right middle finger, initial encounter for closed fracture
+Revise from: 1 S62652B Nondisp fx of medial phalanx of r mid fngr, init for opn fx  Nondisplaced fracture of medial phalanx of right middle finger, initial encounter for open fracture
+Revise to:   1 S62652B Nondisp fx of middle phalanx of right middle finger, 7thB    Nondisplaced fracture of middle phalanx of right middle finger, initial encounter for open fracture
+Revise from: 1 S62652D Nondisp fx of med phalanx of r mid fngr, 7thD                Nondisplaced fracture of medial phalanx of right middle finger, subsequent encounter for fracture with routine healing
+Revise to:   1 S62652D Nondisp fx of middle phalanx of right middle finger, 7thD    Nondisplaced fracture of middle phalanx of right middle finger, subsequent encounter for fracture with routine healing
+Revise from: 1 S62652G Nondisp fx of med phalanx of r mid fngr, 7thG                Nondisplaced fracture of medial phalanx of right middle finger, subsequent encounter for fracture with delayed healing
+Revise to:   1 S62652G Nondisp fx of middle phalanx of right middle finger, 7thG    Nondisplaced fracture of middle phalanx of right middle finger, subsequent encounter for fracture with delayed healing
+Revise from: 1 S62652K Nondisp fx of med phalanx of r mid fngr, 7thK                Nondisplaced fracture of medial phalanx of right middle finger, subsequent encounter for fracture with nonunion
+Revise to:   1 S62652K Nondisp fx of middle phalanx of right middle finger, 7thK    Nondisplaced fracture of middle phalanx of right middle finger, subsequent encounter for fracture with nonunion
+Revise from: 1 S62652P Nondisp fx of med phalanx of r mid fngr, 7thP                Nondisplaced fracture of medial phalanx of right middle finger, subsequent encounter for fracture with malunion
+Revise to:   1 S62652P Nondisp fx of middle phalanx of right middle finger, 7thP    Nondisplaced fracture of middle phalanx of right middle finger, subsequent encounter for fracture with malunion
+Revise from: 1 S62652S Nondisp fx of medial phalanx of right middle finger, sequela Nondisplaced fracture of medial phalanx of right middle finger, sequela
+Revise to:   1 S62652S Nondisp fx of middle phalanx of right middle finger, sequela Nondisplaced fracture of middle phalanx of right middle finger, sequela
+Revise from: 0 S62653  Nondisp fx of medial phalanx of left middle finger           Nondisplaced fracture of medial phalanx of left middle finger
+Revise to:   0 S62653  Nondisp fx of middle phalanx of left middle finger           Nondisplaced fracture of middle phalanx of left middle finger
+Revise from: 1 S62653A Nondisp fx of medial phalanx of left middle finger, init     Nondisplaced fracture of medial phalanx of left middle finger, initial encounter for closed fracture
+Revise to:   1 S62653A Nondisp fx of middle phalanx of left middle finger, init     Nondisplaced fracture of middle phalanx of left middle finger, initial encounter for closed fracture
+Revise from: 1 S62653B Nondisp fx of medial phalanx of l mid fngr, init for opn fx  Nondisplaced fracture of medial phalanx of left middle finger, initial encounter for open fracture
+Revise to:   1 S62653B Nondisp fx of middle phalanx of left middle finger, 7thB     Nondisplaced fracture of middle phalanx of left middle finger, initial encounter for open fracture
+Revise from: 1 S62653D Nondisp fx of med phalanx of l mid fngr, 7thD                Nondisplaced fracture of medial phalanx of left middle finger, subsequent encounter for fracture with routine healing
+Revise to:   1 S62653D Nondisp fx of middle phalanx of left middle finger, 7thD     Nondisplaced fracture of middle phalanx of left middle finger, subsequent encounter for fracture with routine healing
+Revise from: 1 S62653G Nondisp fx of med phalanx of l mid fngr, 7thG                Nondisplaced fracture of medial phalanx of left middle finger, subsequent encounter for fracture with delayed healing
+Revise to:   1 S62653G Nondisp fx of middle phalanx of left middle finger, 7thG     Nondisplaced fracture of middle phalanx of left middle finger, subsequent encounter for fracture with delayed healing
+Revise from: 1 S62653K Nondisp fx of med phalanx of l mid fngr, 7thK                Nondisplaced fracture of medial phalanx of left middle finger, subsequent encounter for fracture with nonunion
+Revise to:   1 S62653K Nondisp fx of middle phalanx of left middle finger, 7thK     Nondisplaced fracture of middle phalanx of left middle finger, subsequent encounter for fracture with nonunion
+Revise from: 1 S62653P Nondisp fx of med phalanx of l mid fngr, 7thP                Nondisplaced fracture of medial phalanx of left middle finger, subsequent encounter for fracture with malunion
+Revise to:   1 S62653P Nondisp fx of middle phalanx of left middle finger, 7thP     Nondisplaced fracture of middle phalanx of left middle finger, subsequent encounter for fracture with malunion
+Revise from: 1 S62653S Nondisp fx of medial phalanx of left middle finger, sequela  Nondisplaced fracture of medial phalanx of left middle finger, sequela
+Revise to:   1 S62653S Nondisp fx of middle phalanx of left middle finger, sequela  Nondisplaced fracture of middle phalanx of left middle finger, sequela
+Revise from: 0 S6312   Subluxation and disloc of unsp interphaln joint of thumb     Subluxation and dislocation of unspecified interphalangeal joint of thumb
+Revise to:   0 S6312   Subluxation and dislocation of interphaln joint of thumb     Subluxation and dislocation of interphalangeal joint of thumb
+Revise from: 0 S63121  Subluxation of unsp interphalangeal joint of right thumb     Subluxation of unspecified interphalangeal joint of right thumb
+Revise to:   0 S63121  Subluxation of interphalangeal joint of right thumb          Subluxation of interphalangeal joint of right thumb
+Revise from: 1 S63121A Subluxation of unsp interphaln joint of right thumb, init    Subluxation of unspecified interphalangeal joint of right thumb, initial encounter
+Revise to:   1 S63121A Subluxation of interphalangeal joint of right thumb, init    Subluxation of interphalangeal joint of right thumb, initial encounter
+Revise from: 1 S63121D Subluxation of unsp interphaln joint of right thumb, subs    Subluxation of unspecified interphalangeal joint of right thumb, subsequent encounter
+Revise to:   1 S63121D Subluxation of interphalangeal joint of right thumb, subs    Subluxation of interphalangeal joint of right thumb, subsequent encounter
+Revise from: 1 S63121S Subluxation of unsp interphaln joint of right thumb, sequela Subluxation of unspecified interphalangeal joint of right thumb, sequela
+Revise to:   1 S63121S Subluxation of interphalangeal joint of right thumb, sequela Subluxation of interphalangeal joint of right thumb, sequela
+Revise from: 0 S63122  Subluxation of unsp interphalangeal joint of left thumb      Subluxation of unspecified interphalangeal joint of left thumb
+Revise to:   0 S63122  Subluxation of interphalangeal joint of left thumb           Subluxation of interphalangeal joint of left thumb
+Revise from: 1 S63122A Subluxation of unsp interphaln joint of left thumb, init     Subluxation of unspecified interphalangeal joint of left thumb, initial encounter
+Revise to:   1 S63122A Subluxation of interphalangeal joint of left thumb, init     Subluxation of interphalangeal joint of left thumb, initial encounter
+Revise from: 1 S63122D Subluxation of unsp interphaln joint of left thumb, subs     Subluxation of unspecified interphalangeal joint of left thumb, subsequent encounter
+Revise to:   1 S63122D Subluxation of interphalangeal joint of left thumb, subs     Subluxation of interphalangeal joint of left thumb, subsequent encounter
+Revise from: 1 S63122S Subluxation of unsp interphaln joint of left thumb, sequela  Subluxation of unspecified interphalangeal joint of left thumb, sequela
+Revise to:   1 S63122S Subluxation of interphalangeal joint of left thumb, sequela  Subluxation of interphalangeal joint of left thumb, sequela
+Revise from: 0 S63123  Subluxation of unsp interphalangeal joint of unsp thumb      Subluxation of unspecified interphalangeal joint of unspecified thumb
+Revise to:   0 S63123  Subluxation of interphalangeal joint of unspecified thumb    Subluxation of interphalangeal joint of unspecified thumb
+Revise from: 1 S63123A Subluxation of unsp interphalangeal joint of thmb, init      Subluxation of unspecified interphalangeal joint of unspecified thumb, initial encounter
+Revise to:   1 S63123A Subluxation of interphalangeal joint of thmb, init           Subluxation of interphalangeal joint of unspecified thumb, initial encounter
+Revise from: 1 S63123D Subluxation of unsp interphalangeal joint of thmb, subs      Subluxation of unspecified interphalangeal joint of unspecified thumb, subsequent encounter
+Revise to:   1 S63123D Subluxation of interphalangeal joint of thmb, subs           Subluxation of interphalangeal joint of unspecified thumb, subsequent encounter
+Revise from: 1 S63123S Subluxation of unsp interphalangeal joint of thmb, sequela   Subluxation of unspecified interphalangeal joint of unspecified thumb, sequela
+Revise to:   1 S63123S Subluxation of interphalangeal joint of thmb, sequela        Subluxation of interphalangeal joint of unspecified thumb, sequela
+Revise from: 0 S63124  Dislocation of unsp interphalangeal joint of right thumb     Dislocation of unspecified interphalangeal joint of right thumb
+Revise to:   0 S63124  Dislocation of interphalangeal joint of right thumb          Dislocation of interphalangeal joint of right thumb
+Revise from: 1 S63124A Dislocation of unsp interphaln joint of right thumb, init    Dislocation of unspecified interphalangeal joint of right thumb, initial encounter
+Revise to:   1 S63124A Dislocation of interphalangeal joint of right thumb, init    Dislocation of interphalangeal joint of right thumb, initial encounter
+Revise from: 1 S63124D Dislocation of unsp interphaln joint of right thumb, subs    Dislocation of unspecified interphalangeal joint of right thumb, subsequent encounter
+Revise to:   1 S63124D Dislocation of interphalangeal joint of right thumb, subs    Dislocation of interphalangeal joint of right thumb, subsequent encounter
+Revise from: 1 S63124S Dislocation of unsp interphaln joint of right thumb, sequela Dislocation of unspecified interphalangeal joint of right thumb, sequela
+Revise to:   1 S63124S Dislocation of interphalangeal joint of right thumb, sequela Dislocation of interphalangeal joint of right thumb, sequela
+Revise from: 0 S63125  Dislocation of unsp interphalangeal joint of left thumb      Dislocation of unspecified interphalangeal joint of left thumb
+Revise to:   0 S63125  Dislocation of interphalangeal joint of left thumb           Dislocation of interphalangeal joint of left thumb
+Revise from: 1 S63125A Dislocation of unsp interphaln joint of left thumb, init     Dislocation of unspecified interphalangeal joint of left thumb, initial encounter
+Revise to:   1 S63125A Dislocation of interphalangeal joint of left thumb, init     Dislocation of interphalangeal joint of left thumb, initial encounter
+Revise from: 1 S63125D Dislocation of unsp interphaln joint of left thumb, subs     Dislocation of unspecified interphalangeal joint of left thumb, subsequent encounter
+Revise to:   1 S63125D Dislocation of interphalangeal joint of left thumb, subs     Dislocation of interphalangeal joint of left thumb, subsequent encounter
+Revise from: 1 S63125S Dislocation of unsp interphaln joint of left thumb, sequela  Dislocation of unspecified interphalangeal joint of left thumb, sequela
+Revise to:   1 S63125S Dislocation of interphalangeal joint of left thumb, sequela  Dislocation of interphalangeal joint of left thumb, sequela
+Revise from: 0 S63126  Dislocation of unsp interphalangeal joint of unsp thumb      Dislocation of unspecified interphalangeal joint of unspecified thumb
+Revise to:   0 S63126  Dislocation of interphalangeal joint of unspecified thumb    Dislocation of interphalangeal joint of unspecified thumb
+Revise from: 1 S63126A Dislocation of unsp interphalangeal joint of thmb, init      Dislocation of unspecified interphalangeal joint of unspecified thumb, initial encounter
+Revise to:   1 S63126A Dislocation of interphalangeal joint of thmb, init           Dislocation of interphalangeal joint of unspecified thumb, initial encounter
+Revise from: 1 S63126D Dislocation of unsp interphalangeal joint of thmb, subs      Dislocation of unspecified interphalangeal joint of unspecified thumb, subsequent encounter
+Revise to:   1 S63126D Dislocation of interphalangeal joint of thmb, subs           Dislocation of interphalangeal joint of unspecified thumb, subsequent encounter
+Revise from: 1 S63126S Dislocation of unsp interphalangeal joint of thmb, sequela   Dislocation of unspecified interphalangeal joint of unspecified thumb, sequela
+Revise to:   1 S63126S Dislocation of interphalangeal joint of thmb, sequela        Dislocation of interphalangeal joint of unspecified thumb, sequela
+Delete:      0 S6313   Subluxation and disloc of proximal interphaln joint of thumb Subluxation and dislocation of proximal interphalangeal joint of thumb
+Delete:      0 S63131  Subluxation of proximal interphalangeal joint of right thumb Subluxation of proximal interphalangeal joint of right thumb
+Delete:      1 S63131A Subluxation of proximal interphaln joint of r thm, init      Subluxation of proximal interphalangeal joint of right thumb, initial encounter
+Delete:      1 S63131D Subluxation of proximal interphaln joint of r thm, subs      Subluxation of proximal interphalangeal joint of right thumb, subsequent encounter
+Delete:      1 S63131S Subluxation of proximal interphaln joint of r thm, sequela   Subluxation of proximal interphalangeal joint of right thumb, sequela
+Delete:      0 S63132  Subluxation of proximal interphalangeal joint of left thumb  Subluxation of proximal interphalangeal joint of left thumb
+Delete:      1 S63132A Subluxation of proximal interphaln joint of left thumb, init Subluxation of proximal interphalangeal joint of left thumb, initial encounter
+Delete:      1 S63132D Subluxation of proximal interphaln joint of left thumb, subs Subluxation of proximal interphalangeal joint of left thumb, subsequent encounter
+Delete:      1 S63132S Sublux of proximal interphaln joint of left thumb, sequela   Subluxation of proximal interphalangeal joint of left thumb, sequela
+Delete:      0 S63133  Subluxation of proximal interphalangeal joint of unsp thumb  Subluxation of proximal interphalangeal joint of unspecified thumb
+Delete:      1 S63133A Subluxation of proximal interphalangeal joint of thmb, init  Subluxation of proximal interphalangeal joint of unspecified thumb, initial encounter
+Delete:      1 S63133D Subluxation of proximal interphalangeal joint of thmb, subs  Subluxation of proximal interphalangeal joint of unspecified thumb, subsequent encounter
+Delete:      1 S63133S Subluxation of proximal interphaln joint of thmb, sequela    Subluxation of proximal interphalangeal joint of unspecified thumb, sequela
+Delete:      0 S63134  Dislocation of proximal interphalangeal joint of right thumb Dislocation of proximal interphalangeal joint of right thumb
+Delete:      1 S63134A Disloc of proximal interphaln joint of right thumb, init     Dislocation of proximal interphalangeal joint of right thumb, initial encounter
+Delete:      1 S63134D Disloc of proximal interphaln joint of right thumb, subs     Dislocation of proximal interphalangeal joint of right thumb, subsequent encounter
+Delete:      1 S63134S Disloc of proximal interphaln joint of right thumb, sequela  Dislocation of proximal interphalangeal joint of right thumb, sequela
+Delete:      0 S63135  Dislocation of proximal interphalangeal joint of left thumb  Dislocation of proximal interphalangeal joint of left thumb
+Delete:      1 S63135A Dislocation of proximal interphaln joint of left thumb, init Dislocation of proximal interphalangeal joint of left thumb, initial encounter
+Delete:      1 S63135D Dislocation of proximal interphaln joint of left thumb, subs Dislocation of proximal interphalangeal joint of left thumb, subsequent encounter
+Delete:      1 S63135S Disloc of proximal interphaln joint of left thumb, sequela   Dislocation of proximal interphalangeal joint of left thumb, sequela
+Delete:      0 S63136  Dislocation of proximal interphalangeal joint of unsp thumb  Dislocation of proximal interphalangeal joint of unspecified thumb
+Delete:      1 S63136A Dislocation of proximal interphalangeal joint of thmb, init  Dislocation of proximal interphalangeal joint of unspecified thumb, initial encounter
+Delete:      1 S63136D Dislocation of proximal interphalangeal joint of thmb, subs  Dislocation of proximal interphalangeal joint of unspecified thumb, subsequent encounter
+Delete:      1 S63136S Dislocation of proximal interphaln joint of thmb, sequela    Dislocation of proximal interphalangeal joint of unspecified thumb, sequela
+Delete:      0 S6314   Subluxation and disloc of distal interphaln joint of thumb   Subluxation and dislocation of distal interphalangeal joint of thumb
+Delete:      0 S63141  Subluxation of distal interphalangeal joint of right thumb   Subluxation of distal interphalangeal joint of right thumb
+Delete:      1 S63141A Subluxation of distal interphaln joint of right thumb, init  Subluxation of distal interphalangeal joint of right thumb, initial encounter
+Delete:      1 S63141D Subluxation of distal interphaln joint of right thumb, subs  Subluxation of distal interphalangeal joint of right thumb, subsequent encounter
+Delete:      1 S63141S Subluxation of distal interphaln joint of r thm, sequela     Subluxation of distal interphalangeal joint of right thumb, sequela
+Delete:      0 S63142  Subluxation of distal interphalangeal joint of left thumb    Subluxation of distal interphalangeal joint of left thumb
+Delete:      1 S63142A Subluxation of distal interphaln joint of left thumb, init   Subluxation of distal interphalangeal joint of left thumb, initial encounter
+Delete:      1 S63142D Subluxation of distal interphaln joint of left thumb, subs   Subluxation of distal interphalangeal joint of left thumb, subsequent encounter
+Delete:      1 S63142S Sublux of distal interphaln joint of left thumb, sequela     Subluxation of distal interphalangeal joint of left thumb, sequela
+Delete:      0 S63143  Subluxation of distal interphalangeal joint of unsp thumb    Subluxation of distal interphalangeal joint of unspecified thumb
+Delete:      1 S63143A Subluxation of distal interphalangeal joint of thmb, init    Subluxation of distal interphalangeal joint of unspecified thumb, initial encounter
+Delete:      1 S63143D Subluxation of distal interphalangeal joint of thmb, subs    Subluxation of distal interphalangeal joint of unspecified thumb, subsequent encounter
+Delete:      1 S63143S Subluxation of distal interphalangeal joint of thmb, sequela Subluxation of distal interphalangeal joint of unspecified thumb, sequela
+Delete:      0 S63144  Dislocation of distal interphalangeal joint of right thumb   Dislocation of distal interphalangeal joint of right thumb
+Delete:      1 S63144A Dislocation of distal interphaln joint of right thumb, init  Dislocation of distal interphalangeal joint of right thumb, initial encounter
+Delete:      1 S63144D Dislocation of distal interphaln joint of right thumb, subs  Dislocation of distal interphalangeal joint of right thumb, subsequent encounter
+Delete:      1 S63144S Disloc of distal interphaln joint of right thumb, sequela    Dislocation of distal interphalangeal joint of right thumb, sequela
+Delete:      0 S63145  Dislocation of distal interphalangeal joint of left thumb    Dislocation of distal interphalangeal joint of left thumb
+Delete:      1 S63145A Dislocation of distal interphaln joint of left thumb, init   Dislocation of distal interphalangeal joint of left thumb, initial encounter
+Delete:      1 S63145D Dislocation of distal interphaln joint of left thumb, subs   Dislocation of distal interphalangeal joint of left thumb, subsequent encounter
+Delete:      1 S63145S Disloc of distal interphaln joint of left thumb, sequela     Dislocation of distal interphalangeal joint of left thumb, sequela
+Delete:      0 S63146  Dislocation of distal interphalangeal joint of unsp thumb    Dislocation of distal interphalangeal joint of unspecified thumb
+Delete:      1 S63146A Dislocation of distal interphalangeal joint of thmb, init    Dislocation of distal interphalangeal joint of unspecified thumb, initial encounter
+Delete:      1 S63146D Dislocation of distal interphalangeal joint of thmb, subs    Dislocation of distal interphalangeal joint of unspecified thumb, subsequent encounter
+Delete:      1 S63146S Dislocation of distal interphalangeal joint of thmb, sequela Dislocation of distal interphalangeal joint of unspecified thumb, sequela
+Revise from: 0 S7303   Other anterior dislocation of hip                            Other anterior dislocation of hip
+Revise to:   0 S7303   Other anterior subluxation and dislocation of hip            Other anterior subluxation and dislocation of hip
+Revise from: 0 S7304   Central dislocation of hip                                   Central dislocation of hip
+Revise to:   0 S7304   Central subluxation and dislocation of hip                   Central subluxation and dislocation of hip
+Revise from: 0 S9252   Fracture of medial phalanx of lesser toe(s)                  Fracture of medial phalanx of lesser toe(s)
+Revise to:   0 S9252   Fracture of middle phalanx of lesser toe(s)                  Fracture of middle phalanx of lesser toe(s)
+Revise from: 0 S92521  Displaced fracture of medial phalanx of right lesser toe(s)  Displaced fracture of medial phalanx of right lesser toe(s)
+Revise to:   0 S92521  Displaced fracture of middle phalanx of right lesser toe(s)  Displaced fracture of middle phalanx of right lesser toe(s)
+Revise from: 1 S92521A Disp fx of medial phalanx of right lesser toe(s), init       Displaced fracture of medial phalanx of right lesser toe(s), initial encounter for closed fracture
+Revise to:   1 S92521A Disp fx of middle phalanx of right lesser toe(s), init       Displaced fracture of middle phalanx of right lesser toe(s), initial encounter for closed fracture
+Revise from: 1 S92521B Disp fx of med phalanx of right less toe(s), init for opn fx Displaced fracture of medial phalanx of right lesser toe(s), initial encounter for open fracture
+Revise to:   1 S92521B Disp fx of middle phalanx of right lesser toe(s), 7thB       Displaced fracture of middle phalanx of right lesser toe(s), initial encounter for open fracture
+Revise from: 1 S92521D Disp fx of med phalanx of r less toe(s), 7thD                Displaced fracture of medial phalanx of right lesser toe(s), subsequent encounter for fracture with routine healing
+Revise to:   1 S92521D Disp fx of middle phalanx of right lesser toe(s), 7thD       Displaced fracture of middle phalanx of right lesser toe(s), subsequent encounter for fracture with routine healing
+Revise from: 1 S92521G Disp fx of med phalanx of r less toe(s), 7thG                Displaced fracture of medial phalanx of right lesser toe(s), subsequent encounter for fracture with delayed healing
+Revise to:   1 S92521G Disp fx of middle phalanx of right lesser toe(s), 7thG       Displaced fracture of middle phalanx of right lesser toe(s), subsequent encounter for fracture with delayed healing
+Revise from: 1 S92521K Disp fx of med phalanx of r less toe(s), 7thK                Displaced fracture of medial phalanx of right lesser toe(s), subsequent encounter for fracture with nonunion
+Revise to:   1 S92521K Disp fx of middle phalanx of right lesser toe(s), 7thK       Displaced fracture of middle phalanx of right lesser toe(s), subsequent encounter for fracture with nonunion
+Revise from: 1 S92521P Disp fx of med phalanx of r less toe(s), 7thP                Displaced fracture of medial phalanx of right lesser toe(s), subsequent encounter for fracture with malunion
+Revise to:   1 S92521P Disp fx of middle phalanx of right lesser toe(s), 7thP       Displaced fracture of middle phalanx of right lesser toe(s), subsequent encounter for fracture with malunion
+Revise from: 1 S92521S Disp fx of medial phalanx of right lesser toe(s), sequela    Displaced fracture of medial phalanx of right lesser toe(s), sequela
+Revise to:   1 S92521S Disp fx of middle phalanx of right lesser toe(s), sequela    Displaced fracture of middle phalanx of right lesser toe(s), sequela
+Revise from: 0 S92522  Displaced fracture of medial phalanx of left lesser toe(s)   Displaced fracture of medial phalanx of left lesser toe(s)
+Revise to:   0 S92522  Displaced fracture of middle phalanx of left lesser toe(s)   Displaced fracture of middle phalanx of left lesser toe(s)
+Revise from: 1 S92522A Disp fx of medial phalanx of left lesser toe(s), init        Displaced fracture of medial phalanx of left lesser toe(s), initial encounter for closed fracture
+Revise to:   1 S92522A Disp fx of middle phalanx of left lesser toe(s), init        Displaced fracture of middle phalanx of left lesser toe(s), initial encounter for closed fracture
+Revise from: 1 S92522B Disp fx of med phalanx of left less toe(s), init for opn fx  Displaced fracture of medial phalanx of left lesser toe(s), initial encounter for open fracture
+Revise to:   1 S92522B Disp fx of middle phalanx of left lesser toe(s), 7thB        Displaced fracture of middle phalanx of left lesser toe(s), initial encounter for open fracture
+Revise from: 1 S92522D Disp fx of med phalanx of l less toe(s), 7thD                Displaced fracture of medial phalanx of left lesser toe(s), subsequent encounter for fracture with routine healing
+Revise to:   1 S92522D Disp fx of middle phalanx of left lesser toe(s), 7thD        Displaced fracture of middle phalanx of left lesser toe(s), subsequent encounter for fracture with routine healing
+Revise from: 1 S92522G Disp fx of med phalanx of l less toe(s), 7thG                Displaced fracture of medial phalanx of left lesser toe(s), subsequent encounter for fracture with delayed healing
+Revise to:   1 S92522G Disp fx of middle phalanx of left lesser toe(s), 7thG        Displaced fracture of middle phalanx of left lesser toe(s), subsequent encounter for fracture with delayed healing
+Revise from: 1 S92522K Disp fx of med phalanx of l less toe(s), 7thK                Displaced fracture of medial phalanx of left lesser toe(s), subsequent encounter for fracture with nonunion
+Revise to:   1 S92522K Disp fx of middle phalanx of left lesser toe(s), 7thK        Displaced fracture of middle phalanx of left lesser toe(s), subsequent encounter for fracture with nonunion
+Revise from: 1 S92522P Disp fx of med phalanx of l less toe(s), 7thP                Displaced fracture of medial phalanx of left lesser toe(s), subsequent encounter for fracture with malunion
+Revise to:   1 S92522P Disp fx of middle phalanx of left lesser toe(s), 7thP        Displaced fracture of middle phalanx of left lesser toe(s), subsequent encounter for fracture with malunion
+Revise from: 1 S92522S Disp fx of medial phalanx of left lesser toe(s), sequela     Displaced fracture of medial phalanx of left lesser toe(s), sequela
+Revise to:   1 S92522S Disp fx of middle phalanx of left lesser toe(s), sequela     Displaced fracture of middle phalanx of left lesser toe(s), sequela
+Revise from: 0 S92523  Disp fx of medial phalanx of unspecified lesser toe(s)       Displaced fracture of medial phalanx of unspecified lesser toe(s)
+Revise to:   0 S92523  Disp fx of middle phalanx of unspecified lesser toe(s)       Displaced fracture of middle phalanx of unspecified lesser toe(s)
+Revise from: 1 S92523A Disp fx of medial phalanx of unsp lesser toe(s), init        Displaced fracture of medial phalanx of unspecified lesser toe(s), initial encounter for closed fracture
+Revise to:   1 S92523A Disp fx of middle phalanx of unspecified lesser toe(s), init Displaced fracture of middle phalanx of unspecified lesser toe(s), initial encounter for closed fracture
+Revise from: 1 S92523B Disp fx of med phalanx of unsp less toe(s), init for opn fx  Displaced fracture of medial phalanx of unspecified lesser toe(s), initial encounter for open fracture
+Revise to:   1 S92523B Disp fx of middle phalanx of unspecified lesser toe(s), 7thB Displaced fracture of middle phalanx of unspecified lesser toe(s), initial encounter for open fracture
+Revise from: 1 S92523D Disp fx of med phalanx of unsp less toe(s), 7thD             Displaced fracture of medial phalanx of unspecified lesser toe(s), subsequent encounter for fracture with routine healing
+Revise to:   1 S92523D Disp fx of middle phalanx of unspecified lesser toe(s), 7thD Displaced fracture of middle phalanx of unspecified lesser toe(s), subsequent encounter for fracture with routine healing
+Revise from: 1 S92523G Disp fx of med phalanx of unsp less toe(s), 7thG             Displaced fracture of medial phalanx of unspecified lesser toe(s), subsequent encounter for fracture with delayed healing
+Revise to:   1 S92523G Disp fx of middle phalanx of unspecified lesser toe(s), 7thG Displaced fracture of middle phalanx of unspecified lesser toe(s), subsequent encounter for fracture with delayed healing
+Revise from: 1 S92523K Disp fx of med phalanx of unsp less toe(s), 7thK             Displaced fracture of medial phalanx of unspecified lesser toe(s), subsequent encounter for fracture with nonunion
+Revise to:   1 S92523K Disp fx of middle phalanx of unspecified lesser toe(s), 7thK Displaced fracture of middle phalanx of unspecified lesser toe(s), subsequent encounter for fracture with nonunion
+Revise from: 1 S92523P Disp fx of med phalanx of unsp less toe(s), 7thP             Displaced fracture of medial phalanx of unspecified lesser toe(s), subsequent encounter for fracture with malunion
+Revise to:   1 S92523P Disp fx of middle phalanx of unspecified lesser toe(s), 7thP Displaced fracture of middle phalanx of unspecified lesser toe(s), subsequent encounter for fracture with malunion
+Revise from: 1 S92523S Disp fx of medial phalanx of unsp lesser toe(s), sequela     Displaced fracture of medial phalanx of unspecified lesser toe(s), sequela
+Revise to:   1 S92523S Disp fx of middle phalanx of unsp lesser toe(s), sequela     Displaced fracture of middle phalanx of unspecified lesser toe(s), sequela
+Revise from: 0 S92524  Nondisp fx of medial phalanx of right lesser toe(s)          Nondisplaced fracture of medial phalanx of right lesser toe(s)
+Revise to:   0 S92524  Nondisp fx of middle phalanx of right lesser toe(s)          Nondisplaced fracture of middle phalanx of right lesser toe(s)
+Revise from: 1 S92524A Nondisp fx of medial phalanx of right lesser toe(s), init    Nondisplaced fracture of medial phalanx of right lesser toe(s), initial encounter for closed fracture
+Revise to:   1 S92524A Nondisp fx of middle phalanx of right lesser toe(s), init    Nondisplaced fracture of middle phalanx of right lesser toe(s), initial encounter for closed fracture
+Revise from: 1 S92524B Nondisp fx of med phalanx of r less toe(s), init for opn fx  Nondisplaced fracture of medial phalanx of right lesser toe(s), initial encounter for open fracture
+Revise to:   1 S92524B Nondisp fx of middle phalanx of right lesser toe(s), 7thB    Nondisplaced fracture of middle phalanx of right lesser toe(s), initial encounter for open fracture
+Revise from: 1 S92524D Nondisp fx of med phalanx of r less toe(s), 7thD             Nondisplaced fracture of medial phalanx of right lesser toe(s), subsequent encounter for fracture with routine healing
+Revise to:   1 S92524D Nondisp fx of middle phalanx of right lesser toe(s), 7thD    Nondisplaced fracture of middle phalanx of right lesser toe(s), subsequent encounter for fracture with routine healing
+Revise from: 1 S92524G Nondisp fx of med phalanx of r less toe(s), 7thG             Nondisplaced fracture of medial phalanx of right lesser toe(s), subsequent encounter for fracture with delayed healing
+Revise to:   1 S92524G Nondisp fx of middle phalanx of right lesser toe(s), 7thG    Nondisplaced fracture of middle phalanx of right lesser toe(s), subsequent encounter for fracture with delayed healing
+Revise from: 1 S92524K Nondisp fx of med phalanx of r less toe(s), 7thK             Nondisplaced fracture of medial phalanx of right lesser toe(s), subsequent encounter for fracture with nonunion
+Revise to:   1 S92524K Nondisp fx of middle phalanx of right lesser toe(s), 7thK    Nondisplaced fracture of middle phalanx of right lesser toe(s), subsequent encounter for fracture with nonunion
+Revise from: 1 S92524P Nondisp fx of med phalanx of r less toe(s), 7thP             Nondisplaced fracture of medial phalanx of right lesser toe(s), subsequent encounter for fracture with malunion
+Revise to:   1 S92524P Nondisp fx of middle phalanx of right lesser toe(s), 7thP    Nondisplaced fracture of middle phalanx of right lesser toe(s), subsequent encounter for fracture with malunion
+Revise from: 1 S92524S Nondisp fx of medial phalanx of right lesser toe(s), sequela Nondisplaced fracture of medial phalanx of right lesser toe(s), sequela
+Revise to:   1 S92524S Nondisp fx of middle phalanx of right lesser toe(s), sequela Nondisplaced fracture of middle phalanx of right lesser toe(s), sequela
+Revise from: 0 S92525  Nondisp fx of medial phalanx of left lesser toe(s)           Nondisplaced fracture of medial phalanx of left lesser toe(s)
+Revise to:   0 S92525  Nondisp fx of middle phalanx of left lesser toe(s)           Nondisplaced fracture of middle phalanx of left lesser toe(s)
+Revise from: 1 S92525A Nondisp fx of medial phalanx of left lesser toe(s), init     Nondisplaced fracture of medial phalanx of left lesser toe(s), initial encounter for closed fracture
+Revise to:   1 S92525A Nondisp fx of middle phalanx of left lesser toe(s), init     Nondisplaced fracture of middle phalanx of left lesser toe(s), initial encounter for closed fracture
+Revise from: 1 S92525B Nondisp fx of med phalanx of l less toe(s), init for opn fx  Nondisplaced fracture of medial phalanx of left lesser toe(s), initial encounter for open fracture
+Revise to:   1 S92525B Nondisp fx of middle phalanx of left lesser toe(s), 7thB     Nondisplaced fracture of middle phalanx of left lesser toe(s), initial encounter for open fracture
+Revise from: 1 S92525D Nondisp fx of med phalanx of l less toe(s), 7thD             Nondisplaced fracture of medial phalanx of left lesser toe(s), subsequent encounter for fracture with routine healing
+Revise to:   1 S92525D Nondisp fx of middle phalanx of left lesser toe(s), 7thD     Nondisplaced fracture of middle phalanx of left lesser toe(s), subsequent encounter for fracture with routine healing
+Revise from: 1 S92525G Nondisp fx of med phalanx of l less toe(s), 7thG             Nondisplaced fracture of medial phalanx of left lesser toe(s), subsequent encounter for fracture with delayed healing
+Revise to:   1 S92525G Nondisp fx of middle phalanx of left lesser toe(s), 7thG     Nondisplaced fracture of middle phalanx of left lesser toe(s), subsequent encounter for fracture with delayed healing
+Revise from: 1 S92525K Nondisp fx of med phalanx of l less toe(s), 7thK             Nondisplaced fracture of medial phalanx of left lesser toe(s), subsequent encounter for fracture with nonunion
+Revise to:   1 S92525K Nondisp fx of middle phalanx of left lesser toe(s), 7thK     Nondisplaced fracture of middle phalanx of left lesser toe(s), subsequent encounter for fracture with nonunion
+Revise from: 1 S92525P Nondisp fx of med phalanx of l less toe(s), 7thP             Nondisplaced fracture of medial phalanx of left lesser toe(s), subsequent encounter for fracture with malunion
+Revise to:   1 S92525P Nondisp fx of middle phalanx of left lesser toe(s), 7thP     Nondisplaced fracture of middle phalanx of left lesser toe(s), subsequent encounter for fracture with malunion
+Revise from: 1 S92525S Nondisp fx of medial phalanx of left lesser toe(s), sequela  Nondisplaced fracture of medial phalanx of left lesser toe(s), sequela
+Revise to:   1 S92525S Nondisp fx of middle phalanx of left lesser toe(s), sequela  Nondisplaced fracture of middle phalanx of left lesser toe(s), sequela
+Revise from: 0 S92526  Nondisp fx of medial phalanx of unspecified lesser toe(s)    Nondisplaced fracture of medial phalanx of unspecified lesser toe(s)
+Revise to:   0 S92526  Nondisp fx of middle phalanx of unspecified lesser toe(s)    Nondisplaced fracture of middle phalanx of unspecified lesser toe(s)
+Revise from: 1 S92526A Nondisp fx of medial phalanx of unsp lesser toe(s), init     Nondisplaced fracture of medial phalanx of unspecified lesser toe(s), initial encounter for closed fracture
+Revise to:   1 S92526A Nondisp fx of middle phalanx of unsp lesser toe(s), init     Nondisplaced fracture of middle phalanx of unspecified lesser toe(s), initial encounter for closed fracture
+Revise from: 1 S92526B Nondisp fx of med phalanx of unsp less toe(s), 7thB          Nondisplaced fracture of medial phalanx of unspecified lesser toe(s), initial encounter for open fracture
+Revise to:   1 S92526B Nondisp fx of middle phalanx of unsp lesser toe(s), 7thB     Nondisplaced fracture of middle phalanx of unspecified lesser toe(s), initial encounter for open fracture
+Revise from: 1 S92526D Nondisp fx of med phalanx of unsp less toe(s), 7thD          Nondisplaced fracture of medial phalanx of unspecified lesser toe(s), subsequent encounter for fracture with routine healing
+Revise to:   1 S92526D Nondisp fx of middle phalanx of unsp lesser toe(s), 7thD     Nondisplaced fracture of middle phalanx of unspecified lesser toe(s), subsequent encounter for fracture with routine healing
+Revise from: 1 S92526G Nondisp fx of med phalanx of unsp less toe(s), 7thG          Nondisplaced fracture of medial phalanx of unspecified lesser toe(s), subsequent encounter for fracture with delayed healing
+Revise to:   1 S92526G Nondisp fx of middle phalanx of unsp lesser toe(s), 7thG     Nondisplaced fracture of middle phalanx of unspecified lesser toe(s), subsequent encounter for fracture with delayed healing
+Revise from: 1 S92526K Nondisp fx of med phalanx of unsp less toe(s), 7thK          Nondisplaced fracture of medial phalanx of unspecified lesser toe(s), subsequent encounter for fracture with nonunion
+Revise to:   1 S92526K Nondisp fx of middle phalanx of unsp lesser toe(s), 7thK     Nondisplaced fracture of middle phalanx of unspecified lesser toe(s), subsequent encounter for fracture with nonunion
+Revise from: 1 S92526P Nondisp fx of med phalanx of unsp less toe(s), 7thP          Nondisplaced fracture of medial phalanx of unspecified lesser toe(s), subsequent encounter for fracture with malunion
+Revise to:   1 S92526P Nondisp fx of middle phalanx of unsp lesser toe(s), 7thP     Nondisplaced fracture of middle phalanx of unspecified lesser toe(s), subsequent encounter for fracture with malunion
+Revise from: 1 S92526S Nondisp fx of medial phalanx of unsp lesser toe(s), sequela  Nondisplaced fracture of medial phalanx of unspecified lesser toe(s), sequela
+Revise to:   1 S92526S Nondisp fx of middle phalanx of unsp lesser toe(s), sequela  Nondisplaced fracture of middle phalanx of unspecified lesser toe(s), sequela
+Delete:      1 T07     Unspecified multiple injuries                                Unspecified multiple injuries
+Add:         0 T07     Unspecified multiple injuries                                Unspecified multiple injuries
+Add:         1 T07XXXA Unspecified multiple injuries, initial encounter             Unspecified multiple injuries, initial encounter
+Add:         1 T07XXXD Unspecified multiple injuries, subsequent encounter          Unspecified multiple injuries, subsequent encounter
+Add:         1 T07XXXS Unspecified multiple injuries, sequela                       Unspecified multiple injuries, sequela
+Delete:      1 T148    Other injury of unspecified body region                      Other injury of unspecified body region
+Add:         0 T148    Other injury of unspecified body region                      Other injury of unspecified body region
+Add:         1 T148XXA Other injury of unspecified body region, initial encounter   Other injury of unspecified body region, initial encounter
+Add:         1 T148XXD Other injury of unspecified body region, subs                Other injury of unspecified body region, subsequent encounter
+Add:         1 T148XXS Other injury of unspecified body region, sequela             Other injury of unspecified body region, sequela
+Delete:      1 T1490   Injury, unspecified                                          Injury, unspecified
+Add:         0 T1490   Injury, unspecified                                          Injury, unspecified
+Add:         1 T1490XA Injury, unspecified, initial encounter                       Injury, unspecified, initial encounter
+Add:         1 T1490XD Injury, unspecified, subsequent encounter                    Injury, unspecified, subsequent encounter
+Add:         1 T1490XS Injury, unspecified, sequela                                 Injury, unspecified, sequela
+Delete:      1 T1491   Suicide attempt                                              Suicide attempt
+Add:         0 T1491   Suicide attempt                                              Suicide attempt
+Add:         1 T1491XA Suicide attempt, initial encounter                           Suicide attempt, initial encounter
+Add:         1 T1491XD Suicide attempt, subsequent encounter                        Suicide attempt, subsequent encounter
+Add:         1 T1491XS Suicide attempt, sequela                                     Suicide attempt, sequela
+Add:         0 V8605   Driver of 3- or 4- wheeled ATV injured in traffic accident   Driver of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident
+Add:         1 V8605XA Driver of 3- or 4- wheeled ATV injured in traf, init         Driver of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident, initial encounter
+Add:         1 V8605XD Driver of 3- or 4- wheeled ATV injured in traf, subs         Driver of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident, subsequent encounter
+Add:         1 V8605XS Driver of 3- or 4- wheeled ATV injured in traf, sequela      Driver of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident, sequela
+Add:         0 V8606   Driver of dirt bike or motor/cross bike injured in traf      Driver of dirt bike or motor/cross bike injured in traffic accident
+Add:         1 V8606XA Driver of dirt bike or motor/cross bike inj in traf, init    Driver of dirt bike or motor/cross bike injured in traffic accident, initial encounter
+Add:         1 V8606XD Driver of dirt bike or motor/cross bike inj in traf, subs    Driver of dirt bike or motor/cross bike injured in traffic accident, subsequent encounter
+Add:         1 V8606XS Driver of dirt bike or motor/cross bike inj in traf, sequela Driver of dirt bike or motor/cross bike injured in traffic accident, sequela
+Add:         0 V8615   Passenger of 3- or 4- wheeled ATV injured in traf            Passenger of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident
+Add:         1 V8615XA Passenger of 3- or 4- wheeled ATV injured in traf, init      Passenger of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident, initial encounter
+Add:         1 V8615XD Passenger of 3- or 4- wheeled ATV injured in traf, subs      Passenger of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident, subsequent encounter
+Add:         1 V8615XS Passenger of 3- or 4- wheeled ATV injured in traf, sequela   Passenger of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident, sequela
+Add:         0 V8616   Passenger of dirt bike or motor/cross bike injured in traf   Passenger of dirt bike or motor/cross bike injured in traffic accident
+Add:         1 V8616XA Pasngr of dirt bike or motor/cross bike inj in traf, init    Passenger of dirt bike or motor/cross bike injured in traffic accident, initial encounter
+Add:         1 V8616XD Pasngr of dirt bike or motor/cross bike inj in traf, subs    Passenger of dirt bike or motor/cross bike injured in traffic accident, subsequent encounter
+Add:         1 V8616XS Pasngr of dirt bike or motor/cross bike inj in traf, sequela Passenger of dirt bike or motor/cross bike injured in traffic accident, sequela
+Add:         0 V8625   Person on outside of 3- or 4- wheeled ATV injured in traf    Person on outside of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident
+Add:         1 V8625XA Person outside 3- or 4- wheeled ATV injured in traf, init    Person on outside of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident, initial encounter
+Add:         1 V8625XD Person outside 3- or 4- wheeled ATV injured in traf, subs    Person on outside of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident, subsequent encounter
+Add:         1 V8625XS Person outside 3- or 4- wheeled ATV injured in traf, sequela Person on outside of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident, sequela
+Add:         0 V8626   Person outside dirt bike or motor/cross bike injured in traf Person on outside of dirt bike or motor/cross bike injured in traffic accident
+Add:         1 V8626XA Person outsd dirt bike or motor/cross bike inj in traf, init Person on outside of dirt bike or motor/cross bike injured in traffic accident, initial encounter
+Add:         1 V8626XD Person outsd dirt bike or motor/cross bike inj in traf, subs Person on outside of dirt bike or motor/cross bike injured in traffic accident, subsequent encounter
+Add:         1 V8626XS Person outsd dirt bike or motor/cross bike inj in traf, sqla Person on outside of dirt bike or motor/cross bike injured in traffic accident, sequela
+Add:         0 V8635   Occup of 3- or 4- wheeled ATV injured in traffic accident    Unspecified occupant of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident
+Add:         1 V8635XA Occup of 3- or 4- wheeled ATV injured in traf, init          Unspecified occupant of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident, initial encounter
+Add:         1 V8635XD Occup of 3- or 4- wheeled ATV injured in traf, subs          Unspecified occupant of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident, subsequent encounter
+Add:         1 V8635XS Occup of 3- or 4- wheeled ATV injured in traf, sequela       Unspecified occupant of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident, sequela
+Add:         0 V8636   Occup of dirt bike or motor/cross bike injured in traf       Unspecified occupant of dirt bike or motor/cross bike injured in traffic accident
+Add:         1 V8636XA Occup of dirt bike or motor/cross bike injured in traf, init Unspecified occupant of dirt bike or motor/cross bike injured in traffic accident, initial encounter
+Add:         1 V8636XD Occup of dirt bike or motor/cross bike injured in traf, subs Unspecified occupant of dirt bike or motor/cross bike injured in traffic accident, subsequent encounter
+Add:         1 V8636XS Occup of dirt bike or motor/cross bike inj in traf, sequela  Unspecified occupant of dirt bike or motor/cross bike injured in traffic accident, sequela
+Add:         0 V8645   Person injured wh brd/alit from a 3- or 4- wheeled ATV       Person injured while boarding or alighting from a 3- or 4- wheeled all-terrain vehicle (ATV)
+Add:         1 V8645XA Person injured wh brd/alit from a 3- or 4- wheeled ATV, init Person injured while boarding or alighting from a 3- or 4- wheeled all-terrain vehicle (ATV), initial encounter
+Add:         1 V8645XD Person injured wh brd/alit from a 3- or 4- wheeled ATV, subs Person injured while boarding or alighting from a 3- or 4- wheeled all-terrain vehicle (ATV), subsequent encounter
+Add:         1 V8645XS Person inj wh brd/alit from a 3- or 4- wheeled ATV, sequela  Person injured while boarding or alighting from a 3- or 4- wheeled all-terrain vehicle (ATV), sequela
+Add:         0 V8646   Person inj wh brd/alit from a dirt bike or motor/cross bike  Person injured while boarding or alighting from a dirt bike or motor/cross bike
+Add:         1 V8646XA Prsn inj wh brd/alit fr a dirt bike or motor/cross bike,init Person injured while boarding or alighting from a dirt bike or motor/cross bike, initial encounter
+Add:         1 V8646XD Prsn inj wh brd/alit fr a dirt bike or motor/cross bike,subs Person injured while boarding or alighting from a dirt bike or motor/cross bike, subsequent encounter
+Add:         1 V8646XS Prsn inj wh brd/alit fr a dirt bike or motor/cross bike,sqla Person injured while boarding or alighting from a dirt bike or motor/cross bike, sequela
+Add:         0 V8655   Driver of 3- or 4- wheeled ATV injured nontraf               Driver of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident
+Add:         1 V8655XA Driver of 3- or 4- wheeled ATV injured nontraf, init         Driver of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident, initial encounter
+Add:         1 V8655XD Driver of 3- or 4- wheeled ATV injured nontraf, subs         Driver of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident, subsequent encounter
+Add:         1 V8655XS Driver of 3- or 4- wheeled ATV injured nontraf, sequela      Driver of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident, sequela
+Add:         0 V8656   Driver of dirt bike or motor/cross bike injured nontraf      Driver of dirt bike or motor/cross bike injured in nontraffic accident
+Add:         1 V8656XA Driver of dirt bike or motor/cross bike inj nontraf, init    Driver of dirt bike or motor/cross bike injured in nontraffic accident, initial encounter
+Add:         1 V8656XD Driver of dirt bike or motor/cross bike inj nontraf, subs    Driver of dirt bike or motor/cross bike injured in nontraffic accident, subsequent encounter
+Add:         1 V8656XS Driver of dirt bike or motor/cross bike inj nontraf, sequela Driver of dirt bike or motor/cross bike injured in nontraffic accident, sequela
+Add:         0 V8665   Passenger of 3- or 4- wheeled ATV injured nontraf            Passenger of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident
+Add:         1 V8665XA Passenger of 3- or 4- wheeled ATV injured nontraf, init      Passenger of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident, initial encounter
+Add:         1 V8665XD Passenger of 3- or 4- wheeled ATV injured nontraf, subs      Passenger of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident, subsequent encounter
+Add:         1 V8665XS Passenger of 3- or 4- wheeled ATV injured nontraf, sequela   Passenger of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident, sequela
+Add:         0 V8666   Passenger of dirt bike or motor/cross bike injured nontraf   Passenger of dirt bike or motor/cross bike injured in nontraffic accident
+Add:         1 V8666XA Pasngr of dirt bike or motor/cross bike inj nontraf, init    Passenger of dirt bike or motor/cross bike injured in nontraffic accident, initial encounter
+Add:         1 V8666XD Pasngr of dirt bike or motor/cross bike inj nontraf, subs    Passenger of dirt bike or motor/cross bike injured in nontraffic accident, subsequent encounter
+Add:         1 V8666XS Pasngr of dirt bike or motor/cross bike inj nontraf, sequela Passenger of dirt bike or motor/cross bike injured in nontraffic accident, sequela
+Add:         0 V8675   Person on outside of 3- or 4- wheeled ATV injured nontraf    Person on outside of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident
+Add:         1 V8675XA Person outside 3- or 4- wheeled ATV injured nontraf, init    Person on outside of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident, initial encounter
+Add:         1 V8675XD Person outside 3- or 4- wheeled ATV injured nontraf, subs    Person on outside of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident, subsequent encounter
+Add:         1 V8675XS Person outside 3- or 4- wheeled ATV injured nontraf, sequela Person on outside of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident, sequela
+Add:         0 V8676   Person outside dirt bike or motor/cross bike injured nontraf Person on outside of dirt bike or motor/cross bike injured in nontraffic accident
+Add:         1 V8676XA Person outsd dirt bike or motor/cross bike inj nontraf, init Person on outside of dirt bike or motor/cross bike injured in nontraffic accident, initial encounter
+Add:         1 V8676XD Person outsd dirt bike or motor/cross bike inj nontraf, subs Person on outside of dirt bike or motor/cross bike injured in nontraffic accident, subsequent encounter
+Add:         1 V8676XS Person outsd dirt bike or motor/cross bike inj nontraf, sqla Person on outside of dirt bike or motor/cross bike injured in nontraffic accident, sequela
+Add:         0 V8695   Unspecified occupant of 3- or 4- wheeled ATV injured nontraf Unspecified occupant of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident
+Add:         1 V8695XA Occup of 3- or 4- wheeled ATV injured nontraf, init          Unspecified occupant of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident, initial encounter
+Add:         1 V8695XD Occup of 3- or 4- wheeled ATV injured nontraf, subs          Unspecified occupant of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident, subsequent encounter
+Add:         1 V8695XS Occup of 3- or 4- wheeled ATV injured nontraf, sequela       Unspecified occupant of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident, sequela
+Add:         0 V8696   Occup of dirt bike or motor/cross bike injured nontraf       Unspecified occupant of dirt bike or motor/cross bike injured in nontraffic accident
+Add:         1 V8696XA Occup of dirt bike or motor/cross bike injured nontraf, init Unspecified occupant of dirt bike or motor/cross bike injured in nontraffic accident, initial encounter
+Add:         1 V8696XD Occup of dirt bike or motor/cross bike injured nontraf, subs Unspecified occupant of dirt bike or motor/cross bike injured in nontraffic accident, subsequent encounter
+Add:         1 V8696XS Occup of dirt bike or motor/cross bike inj nontraf, sequela  Unspecified occupant of dirt bike or motor/cross bike injured in nontraffic accident, sequela
+Revise from: 0 W298    Contact w oth powered powered hand tools and household mach  Contact with other powered powered hand tools and household machinery
+Revise to:   0 W298    Contact with other powered hand tools and household mach     Contact with other powered hand tools and household machinery
+Revise from: 1 W298XXA Cntct w oth power power hand tools and household mach, init  Contact with other powered powered hand tools and household machinery, initial encounter
+Revise to:   1 W298XXA Cntct with other powered hand tools and household mach, init Contact with other powered hand tools and household machinery, initial encounter
+Revise from: 1 W298XXD Cntct w oth power power hand tools and household mach, subs  Contact with other powered powered hand tools and household machinery, subsequent encounter
+Revise to:   1 W298XXD Cntct with other powered hand tools and household mach, subs Contact with other powered hand tools and household machinery, subsequent encounter
+Revise from: 1 W298XXS Cntct w oth power power hand tools and household mach, sqla  Contact with other powered powered hand tools and household machinery, sequela
+Revise to:   1 W298XXS Cntct with other power hand tools and household mach, sqla   Contact with other powered hand tools and household machinery, sequela
+Revise from: 0 Z05     Enctr for Obs & eval of NB for  susp diseases and cond R/O   Encounter for observation and evaluation of newborn for   suspected diseases and conditions ruled out
+Revise to:   0 Z05     Enctr for Obs & eval of NB for susp diseases and cond R/O    Encounter for observation and evaluation of newborn for suspected diseases and conditions ruled out
+Revise from: 1 Z315    Encounter for genetic counseling                             Encounter for genetic counseling
+Revise to:   1 Z315    Encounter for procreative genetic counseling                 Encounter for procreative genetic counseling
+Delete:      1 Z36     Encounter for antenatal screening of mother                  Encounter for antenatal screening of mother
+Add:         0 Z36     Encounter for antenatal screening of mother                  Encounter for antenatal screening of mother
+Add:         1 Z360    Encounter for antenatal screening for chromosomal anomalies  Encounter for antenatal screening for chromosomal anomalies
+Add:         1 Z361    Enctr for antenat screen for raised alphafetoprotein level   Encounter for antenatal screening for raised alphafetoprotein level
+Add:         1 Z362    Encounter for other antenatal screening follow-up            Encounter for other antenatal screening follow-up
+Add:         1 Z363    Encounter for antenatal screening for malformations          Encounter for antenatal screening for malformations
+Add:         1 Z364    Enctr for antenatal screening for fetal growth retardation   Encounter for antenatal screening for fetal growth retardation
+Add:         1 Z365    Encounter for antenatal screening for isoimmunization        Encounter for antenatal screening for isoimmunization
+Add:         0 Z368    Encounter for other antenatal screening                      Encounter for other antenatal screening
+Add:         1 Z3681   Encounter for antenatal screening for hydrops fetalis        Encounter for antenatal screening for hydrops fetalis
+Add:         1 Z3682   Encounter for antenatal screening for nuchal translucency    Encounter for antenatal screening for nuchal translucency
+Add:         1 Z3683   Encounter for fetal screening for congenital cardiac abnlt   Encounter for fetal screening for congenital cardiac abnormalities
+Add:         1 Z3684   Encounter for antenatal screening for fetal lung maturity    Encounter for antenatal screening for fetal lung maturity
+Add:         1 Z3685   Encounter for antenatal screening for Streptococcus B        Encounter for antenatal screening for Streptococcus B
+Add:         1 Z3686   Encounter for antenatal screening for cervical length        Encounter for antenatal screening for cervical length
+Add:         1 Z3687   Encounter for antenatal screening for uncertain dates        Encounter for antenatal screening for uncertain dates
+Add:         1 Z3688   Encounter for antenatal screening for fetal macrosomia       Encounter for antenatal screening for fetal macrosomia
+Add:         1 Z3689   Encounter for other specified antenatal screening            Encounter for other specified antenatal screening
+Add:         1 Z368A   Encounter for antenatal screening for other genetic defects  Encounter for antenatal screening for other genetic defects
+Add:         1 Z369    Encounter for antenatal screening, unspecified               Encounter for antenatal screening, unspecified
+Revise from: 1 Z4002   Encounter for prophylactic removal of ovary                  Encounter for prophylactic removal of ovary
+Revise to:   1 Z4002   Encounter for prophylactic removal of ovary(s)               Encounter for prophylactic removal of ovary(s)
+Add:         1 Z4003   Encounter for prophylactic removal of fallopian tube(s )     Encounter for prophylactic removal of fallopian tube(s )
+Revise from: 1 Z681    Body mass index (BMI) 19 or less, adult                      Body mass index (BMI) 19 or less, adult
+Revise to:   1 Z681    Body mass index (BMI) 19.9 or less, adult                    Body mass index (BMI) 19.9 or less, adult
+Add:         1 Z7182   Exercise counseling                                          Exercise counseling
+Add:         1 Z7183   Encounter for nonprocreative genetic counseling              Encounter for nonprocreative genetic counseling
+Revise from: 1 Z79890  Hormone replacement therapy (postmenopausal)                 Hormone replacement therapy (postmenopausal)
+Revise to:   1 Z79890  Hormone replacement therapy                                  Hormone replacement therapy
+Add:         0 Z9184   Oral health risk factors                                     Oral health risk factors
+Add:         1 Z91841  Risk for dental caries, low                                  Risk for dental caries, low
+Add:         1 Z91842  Risk for dental caries, moderate                             Risk for dental caries, moderate
+Add:         1 Z91843  Risk for dental caries, high                                 Risk for dental caries, high
+Add:         1 Z91849  Unspecified risk for dental caries                           Unspecified risk for dental caries
+
+Headers
+  22344 headers in icd10cm_order_2017.txt
+  22423 headers in icd10cm_order_2018.txt
+     93 additions
+     14 deletions
+     44 revisions
+of which
+     44 revisions to both long and short titles
+      0 revisions to long title only
+      0 revisions to short title only
+
+Codes
+  71486 codes in icd10cm_order_2017.txt
+  71704 codes in icd10cm_order_2018.txt
+    360 additions
+    142 deletions
+    226 revisions
+of which
+    225 revisions to both long and short titles
+      1 revisions to long title only
+      0 revisions to short title only
