@@ -116,7 +116,7 @@ Citation
 If you use this code for your research, please consider citing:
 
 ```
-[TODO]
+[TODO] add link to arxiv
 ```
 
 
