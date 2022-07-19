@@ -1,4 +1,4 @@
-## Code for [MLHC 2022](#)  MedFuse: Multi-modal fusion and benchmarking with clinical time-series and chest X-ray images
+## Code for [MLHC 2022](https://arxiv.org/abs/2207.07027)  MedFuse: Multi-modal fusion and benchmarking with clinical time-series and chest X-ray images
 
 
 Table of contents
@@ -116,7 +116,15 @@ Citation
 If you use this code for your research, please consider citing:
 
 ```
-[TODO] add link to arxiv
+@misc{https://doi.org/10.48550/arxiv.2207.07027,
+  doi = {10.48550/ARXIV.2207.07027},
+  url = {https://arxiv.org/abs/2207.07027},
+  author = {Hayat, Nasir and Geras, Krzysztof J. and Shamout, Farah E.},
+  title = {MedFuse: Multi-modal fusion with clinical time-series data and chest X-ray images},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
 ```
 
 
