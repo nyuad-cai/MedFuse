@@ -120,7 +120,7 @@ def loadmetadata(args):
     cxr_merged_icustays.intime=pd.to_datetime(cxr_merged_icustays.intime)
     cxr_merged_icustays.outtime=pd.to_datetime(cxr_merged_icustays.outtime)
     end_time = cxr_merged_icustays.outtime
-    if args.task == 'in-hospital mortality':
+    if args.task == 'in-hospital-mortality':
         end_time = cxr_merged_icustays.intime + pd.DateOffset(hours=48)
 
     cxr_merged_icustays_during = cxr_merged_icustays.loc[(cxr_merged_icustays.StudyDateTime>=cxr_merged_icustays.intime)&((cxr_merged_icustays.StudyDateTime<=end_time))]
