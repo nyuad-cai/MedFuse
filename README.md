@@ -25,7 +25,7 @@ Overview of the MedFuse network
 
 We first extract and link the datasets from MIMIC-IV and MIMIC-CXR based on the task definition (i.e., inhospital mortality prediction,
 or phenotype classification). The data splits of the training, validation, and test sets are summarized for each task, and the prevalence of positive and negative labels for in-hospital mortality is shown. Phenotype classification involves 25 labels as shown in Table 4.
-![](figures/overview.png)
+![](figures/overview_updated.png)
 
 
 Environment setup
