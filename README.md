@@ -1,4 +1,4 @@
-## Code for [MLHC 2022](https://arxiv.org/abs/2207.07027)  MedFuse: Multi-modal fusion and benchmarking with clinical time-series and chest X-ray images
+## Code for [MedFuse](https://arxiv.org/abs/2207.07027): Multi-modal fusion and benchmarking with clinical time-series and chest X-ray images
 
 
 Table of contents
@@ -109,6 +109,11 @@ sh ./scripts/mortality/eval/medFuse.sh
 # med fuse for phenotype task
 sh ./scripts/phenotyping/eval/medFuse.sh
 ```
+
+
+Updates
+------------------
+**March 2, 2023**: Note that we updated the repository to exclude chest X-rays collected after the first 48 hours of ICU stay in the in-hospital mortality task. This leads to the following numbers in this new setting: 4485 in the training set, 488 in the validation set, and 1242 in the test set. This requires retraining the models to obtain new results.
 
 Citation 
 ============
