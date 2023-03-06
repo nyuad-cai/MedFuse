@@ -145,10 +145,11 @@ class FusionTrainer(Trainer):
                 output = self.model(x, seq_lengths, img, pairs)
                 
                 pred = output[self.args.fusion_type]
-                if len(pred.shape) > 1:
-                    pred = pred.squeeze()
-                    # import pdb; pdb.set_trace()
-                # .squeeze()
+                
+                if self.args.fusion_type != 'uni_cxr':
+                    if len(pred.shape) > 1:
+                         pred = pred.squeeze()
+                           
                 loss = self.loss(pred, y)
                 epoch_loss += loss.item()
                 if self.args.align > 0.0:
